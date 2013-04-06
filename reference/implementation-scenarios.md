@@ -2,29 +2,7 @@
 
 Countly is an extensible, open source mobile analytics solution for mobile application developers. It tracks applications, customer behaviour or game mechanics - so you can focus on increasing user loyalty and engagement. With Countly, collected data is converted into meaningful information in true real-time, benefiting from underlying infrastructure with [MongoDB](http://mongodb.org), [Node.js](http://nodejs.org) and [Nginx](http://nginx.org).
 
-Countly [provides two APIs](http://support.count.ly/kb/reference/countly-server-api-reference) to write and read data. In order to write data, Countly provides SDKs ([Android](https://github.com/Countly/countly-sdk-android), [iOS](https://github.com/Countly/countly-sdk-ios), [Windows Phone](http://github.com/Countly/countly-sdk-windows-phone) and [Blackberry](https://github.com/Countly/countly-sdk-blackberry-webworks)) to be used within applications on mobile devices. SDK collects usage information and sends it to Countly server. Read API can be used to retrieve data from Countly server. The whole dashboard retrieves information and visualizes in a graphical form using this Read API.
-
-Countly features include, but not limited to:
-
-* Real time data updates
-* Open source software
-* User interface with a focus on usability
-* General dashboard view showing top platforms, carriers, users, resolutions
-* Custom event tracking with advanced segmentation
-* Number of online users widget (cloud version)
-* Retention calculation (cloud version)
-* Country-based tracking
-* User tracking
-* User loyalty tracking
-* Session tracking
-* Session frequency tracking
-* Device type and model tracking
-* Carrier tracking
-* Application version tracking
-* Platform and platform version tracking
-* Sending events using period of 30 seconds
-* Advanced user management to add administrators or users to an application or create global administrators to manage everything
-* Offline tracking
+Countly [provides two APIs](/documentation/reference/server-api) to write and read data. In order to write data, Countly provides SDKs (e.g [Android](https://github.com/Countly/countly-sdk-android), [iOS](https://github.com/Countly/countly-sdk-ios), [Windows Phone](http://github.com/Countly/countly-sdk-windows-phone) and [Blackberry](https://github.com/Countly/countly-sdk-blackberry-webworks)) to be used within applications on mobile devices. SDK collects usage information and sends it to Countly server. Read API can be used to retrieve data from Countly server. The whole dashboard retrieves information and visualizes in a graphical form using this Read API.
 
 Countly is a true real-time service, showing updates every 10 seconds from user interface – which is also a configurable parameter.
 
