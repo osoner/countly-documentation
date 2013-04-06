@@ -14,3 +14,6 @@ Below you can see a list of mobile, Facebook, AS3 and desktop SDKs.
 #### Community Supported SDKs
 
 * [Unity SDK](https://github.com/Countly/countly-sdk-unity)
+* [Mac OSX SDK](https://github.com/mrballoon/countly-sdk-osx)
+* [iOS and Mac OS X SDK](https://github.com/benoitsan/countly-sdk-cocoa) with many add-on features
+* [Blackberry Cascades SDK](https://github.com/craigmj/countly-sdk-blackberry10-cascades)
