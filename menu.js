@@ -32,8 +32,8 @@ var menu = [
         name:"Source",
         label:"source",
         items:[
-            { link:"download-", name:"Download Server" },
-            { link:"download-", name:"Download SDK" }
+            { link:"download-server", name:"Download Server" },
+            { link:"download-sdk", name:"Download SDK" }
         ]
     },
     {
