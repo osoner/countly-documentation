@@ -10,7 +10,7 @@ var menu = [
         ]
     },
     {
-        name:"Reference",
+        name:"References",
         label:"reference",
         items:[
             { link:"user-guide", name:"User guide" },
