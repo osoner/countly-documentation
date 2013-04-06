@@ -44,7 +44,7 @@ Countly needs a minimum of Android 2.1 and iOS 3.1 to work.
 Any directory (your user home dir, /var directory, /usr/local etc) is just tine. If you happen to have a setup that reveals some folder to public access (for ex. public_html folder) you may want to avoid extracting Countly there.
 
 ##I'm getting errors while installing node's time module
-Username that you are using while installing Countly is very important especially while installing time module using node package manager (nmp). Since Linux treats "sudo su" and "sudo" differently, you should choose one method. We prefer running "sudo ./countly.install.sh".
+Username that you are using while installing Countly is very important especially while installing time module using Node Package Manager (npm). Since Linux treats "sudo su" and "sudo" differently, you should choose one method. We prefer running "sudo ./countly.install.sh".
 
 ##Do I need a mail server?
 Starting from version 12.06, Countly needs an MTA to send emails to the user created by admin. MTA can be any SMTP server (e.g Postfix, Exim or Sendmail) that's installed on your server, or you can use remote SMTP and let another server handle the mail sending process. By default, Countly automated installer will use Sendmail, however you can change the installation script so it installs Postfix or Exim.
