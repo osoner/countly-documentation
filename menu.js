@@ -19,7 +19,7 @@ var menu = [
             { link:"features", name:"Features" },
             { link:"glossary", name:"Glossary" },
             { link:"implementation-scenarios", name:"Implementation Scenarios" },
-            { link:"implementation-scenarios", name:"Increasing Performance" },
+            { link:"increasing-performance", name:"Increasing Performance" },
             { link:"roadmap", name:"Roadmap" },
             { link:"sdk-methods-for-custom-events", name:"SDK Methods for Custom Events" },
             { link:"server-api", name:"Server API" },
