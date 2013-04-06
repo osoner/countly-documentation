@@ -1,6 +1,6 @@
 #Countly Mobile Analytics Documentation
 
-* [FAQ](FAQ)
-* [Reference](Reference)
-* [SDK Installation](SDK Installation)
-* [Server Installation](Server Installation)
+* [FAQ](faq)
+* [Reference](reference)
+* [SDK Installation](sdk-installation)
+* [Server Installation](server-installation)
