@@ -1,5 +1,21 @@
 #Countly Changelog
 
+
+####13.05
+
+* Added cluster mechanism to api.js in order to fork itself according to the number of CPUs in the server for full utilization.
+* Added two new API paths, /o/analytics/dashboard and /o/analytics/countries that return ready-to-use metrics for today, 7 days and 30 months.
+* Added switch to turn off or change session_duration limit of 120 seconds in api.js config (session_duration_limit).
+* Retention view defaults to daily bucket.
+* Retention view, indicate there is no data on the graph area if there is not enough data to draw the graph.
+* Immediate refresh after view change. All the views will get their data as soon as view change occurs. Each view will only get the data they need in order to render.
+* Events view, segmentations shown on the bar graph are limited by 15. The rest is shown in the table below.
+* Events view, segmentations in the combobox are sorted alphabetically.
+* Events view, individual event keys can be deleted from the event configuration popup.
+* Added expire_online_after flag to api.js configuration. This configuration extends the expiry duration of online user counts.
+* Added host configuration to both app.js and api.js configuration, defaults to "localhost".
+* Added script (bin/geoip-updater.sh) to automatically download latest geoip data files from MaxMind and process them according to geoip-lite module requirements. After running this script you need to restart master api.js process.
+
 ####12.12
 
 * Added Windows Phone and Blackberry WebWorks support.
