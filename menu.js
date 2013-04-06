@@ -38,11 +38,12 @@ var menu = [
         ]
     },
     {
-        name:"SDK Installation",
-        label:"sdk-installation",
+        name:"Installation",
+        label:"installation",
         items:[
-            { link:"android", name:"Android" },
-            { link:"ios", name:"iOS" }
+            { link:"countly-server-installation", name:"Server" },
+            { link:"android", name:"Android SDK" },
+            { link:"ios", name:"iOS SDK" }
         ]
     }
 ];
