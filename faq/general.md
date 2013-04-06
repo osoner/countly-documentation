@@ -25,7 +25,14 @@ We want our application created not by a handful of developers, but hundreds. We
 Versions are YY.MM.VV where YY and MM denote year and month when the release is submitted, and VV gives minor release number (if there's any) We'll try to keep time between each release roughly 8 weeks. For the curious, numbering resembles [Ubuntu's release model](https://wiki.ubuntu.com/ReleaseSchedule)
 
 ##Which mobile operating systems are supported?
-Countly officially offers integration with world's four leading smartphone operating systems, Android, iOS, Windows Phone and Blackberry. There's also a [Titanium iOS SDK](https://github.com/euforic/Titanium-Count.ly/)  and [Unity3D SDK](https://github.com/Countly/countly-sdk-unity) developed by community member(s).
+Countly officially offers integration with world's four leading smartphone operating systems, 
+Android, iOS, Windows Phone and Blackberry. 
+There's also a [Titanium iOS SDK](https://github.com/euforic/Titanium-Count.ly/)  
+and [Unity3D SDK](https://github.com/Countly/countly-sdk-unity) developed by community member(s).
+
+##Is it possible to use Countly for desktop analytics? 
+Yes, we have a [community-contributed Mac OSX SDK](https://github.com/mrballoon/countly-sdk-osx). Use this to track 
+your Mac OS X applications.
 
 ##Can I use one account for several applications?
 Yes, one account can control more than one application.
