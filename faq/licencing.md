@@ -17,5 +17,8 @@ Please contact us for possible rebranding and support options.
 ##When I download Countly, do I get all the source code?
 Yes, all the source code is provided unencrypted.
 
-##What's the licensing terms for iOS or Android SDK?
-iOS and Android SDK have a very permissive MIT licensed. It permits reuse within proprietary software provided all copies of the licensed software include a copy of the MIT License terms.
+##What's the licensing terms for SDKs (client libraries)?
+iOS and Android SDK have a very permissive MIT license. It basically allows reuse within 
+proprietary software provided all copies of the licensed software include a copy of the MIT License terms.
+
+Community SDKs have their own licensing terms, mainly being MIT.
