@@ -1,13 +1,18 @@
 #Licencing FAQ
 
-##What are the licensing terms for Countly Community Edition?
-Please see the licensing file that comes with installation.
+##How many different Countly Editions are there? 
+There are 3 basic editions: 
 
-##Will there be other editions in the future?
-Yes, we'll always keep an open source version, while providing several supported editions that fit different needs and requirements.
+* [Community Edition](/products/editions/community): This is our open-source, self-hosted version of the Countly mobile analytics platform. 
+* [Cloud Edition](/products/editions/cloud): This edition is for companies who need a reliable, secure and supported SaaS mobile analytics solution. 
+* [Enterprise Edition](/products/editions/enterprise): Countly Enterprise Edition is a full-featured, open source, customizable, white-labeled, on-premise mobile analytics stack including Countly server, more than 10 SDKs, client API libraries, extensive documentation with support.
+
+##What are the licensing terms for Countly Community Edition?
+Please see the [licensing file](https://github.com/Countly/countly-server/blob/master/LICENCE) that comes with installation.
 
 ##Is it possible to rebrand Countly?
-Yes, please contact us for possible rebranding and whitelabel solutions.
+In order to rebrand Countly, you need [Enterprise Edition](/products/editions/enterprise). 
+Please contact us for possible rebranding and support options.
 
 ##When I download Countly, do I get all the source code?
 Yes, all the source code is provided unencrypted.
