@@ -69,6 +69,8 @@ sudo apt-get install build-essential
 If you haven't downloaded Countly yet, [do it now](/documentation/source/download-server). Copy the zip file 
 in a directory that can be used to serve files (e.g /usr/local).
 
+Extract the file:
+
 <pre class="prettyprint lang-sh">
 unzip countly-server-v12.12.zip
 </pre>
