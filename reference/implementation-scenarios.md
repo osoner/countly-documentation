@@ -36,7 +36,9 @@ Installation is well tested on Ubuntu instances from 10.04 to 12.04. We strongly
 
 In its basic form, installer is used for a single instance, e.g doesn’t configure the system to work on multiple nodes. Therefore a single node is capable of handling a limited number of sessions coming from devices. A mid-range server can handle *300+ requests* per second (more than *25 million requests per day*), which is equivalent to roughly *10.000 users at the same time*. If the user base is more than that, MongoDB should be replicated and proper load balancing scenarios should be used.
 
+<div class="centered">
 <img src="http://support.count.ly/help/assets/ea7a0a214a43f37d7dd8bf0836e83029b8fdcf81/1_normal.png"/>
+</div>
 
 Countly is also [installable on Heroku](https://github.com/gabrielrinaldi/Countly-Frontend-Heroku), a PaaS service, so it’s possible to extend Countly with PaaS offerings by Heroku. We strongly advise you to take a look with this option, if you are willing to go with a hosted solution rather than on-premise.
 
@@ -80,7 +82,7 @@ When the application is terminated, or sent to background, following data ise se
 
 If the application is sent to background, then you need to send an `end_session` packet. Likewise, as user puts the information to the foreground again, send a `begin_session` packet. This ensures highest granularity and eliminates potential miscalculations.
 
-# Installation scenarios
+## Installation scenarios
 
 In this chapter we’ll have a look at different installation options for Countly. The first one is already covered before (single node option), which is a straightforward way to install Countly if you have a few million users daily, and not more than 10.000 users at the same time. It’s important to provide a failover mechanism, so that if Countly server goes down for a reason (e.g hardware failure, DB crash etc), you can rely on the other option and continue without interfering your service.
 
@@ -94,9 +96,9 @@ Sharding is the method MongoDB uses in order to split its data across two or mor
 
 Converting an unsharded database to a sharded one is seamless, therefore it’s much better to go for sharding in case there’s a need for it. As a minimum, there are 3 config servers for a shard, and at least 2 sharded MongoDB instances. On config servers, also MongoDB instances are run, with a minor difference that they are configured to act as configuration servers.
 
-
+<div class="centered">
 <img src="http://support.count.ly/help/assets/44299239ef8435a23d8f8ae1c0ee25410976a928/2_normal.png"/>
-
+</div>
 
 Since reads in MongoDB are much faster than writes, it’s best to dedicate a higher percentage of system resources to writes (e.g by using faster disks). MongoDB writes are in RAM and they eventually get synced to disk since MongoDB uses memory mapped files.
 
@@ -105,6 +107,7 @@ Since reads in MongoDB are much faster than writes, it’s best to dedicate a hi
 While gathering analytics data is not as critical as gathering a customer information data and keeping it safe, we must make sure that all data is replicated, and recovered in case of a failure occurs. Major advantages of replica sets are business continuity through high availability, data safety through data redundancy, and read scalability through load sharing (reads).
 
 With replica sets, MongoDB language drivers know the current primary. All write operations go to the primary. If the primary is down, the drivers know how to get to the new primary (an elected new primary), this is auto failover for high availability. The data is replicated after writing. Drivers always write to the replica set's primary (called the master), the master then replicates to slaves. The primary is not fixed – the master/primary is nominated.
+
 <div class="centered">
 	<img src="http://support.count.ly/help/assets/b4bb70bb8a63c8ba648ee0203671a2e1c1000be4/3_normal.png"/>
 </div>
@@ -113,9 +116,11 @@ Typically you have at least three MongoDB instances in a replica set on differen
 ## Putting it all together
 
 Figure below shows how the complete system with sharding and replication enabled.
+
 <div class="centered">
 	<img src="http://support.count.ly/help/assets/f5ad07ee21884fa2b9035cd35844226ea281195c/4_normal.png"/>
 </div>
+
 Here, you’ll easily see that:
 
 * Each replica set consists of a shard. There are 3 shards with 3 replica sets
@@ -125,6 +130,6 @@ Here, you’ll easily see that:
 
 There are two dashboards on two routing servers, however one is redundant and can be omitted.
 
-# Conclusion
+## Conclusion
 
 Countly is developed with scalability and performance in mind, and this document describes potential implementation scenarios. While a single server can handle several tens of million requests per day, in some circumstances a high performance, high throughput server farm is necessary to handle incoming traffic. Once the steps towards sharding and replication are complete, scaling the cluster will be as simple as putting another server and adding it in configuration database.
