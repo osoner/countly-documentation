@@ -35,9 +35,9 @@ It’s advised to install Countly on a separete server to provide maximum compat
 Installation is well tested on Ubuntu instances from 10.04 to 12.04. We strongly advise to get Ubuntu LTS (long term support) series to get updates timely. Installation script that is included in Countly package automates the process by; adding new repositories, downloading required files and installing to target operating system. In case Countly needs to be updated, corresponding update scripts can be used that come with package.
 
 In its basic form, installer is used for a single instance, e.g doesn’t configure the system to work on multiple nodes. Therefore a single node is capable of handling a limited number of sessions coming from devices. A mid-range server can handle *300+ requests* per second (more than *25 million requests per day*), which is equivalent to roughly *10.000 users at the same time*. If the user base is more than that, MongoDB should be replicated and proper load balancing scenarios should be used.
-<div class="centered">
-	<img src="http://support.count.ly/help/assets/ea7a0a214a43f37d7dd8bf0836e83029b8fdcf81/1_normal.png"/>
-</div>
+
+<img src="http://support.count.ly/help/assets/ea7a0a214a43f37d7dd8bf0836e83029b8fdcf81/1_normal.png"/>
+
 Countly is also [installable on Heroku](https://github.com/gabrielrinaldi/Countly-Frontend-Heroku), a PaaS service, so it’s possible to extend Countly with PaaS offerings by Heroku. We strongly advise you to take a look with this option, if you are willing to go with a hosted solution rather than on-premise.
 
 ## Device SDKs
@@ -94,9 +94,9 @@ Sharding is the method MongoDB uses in order to split its data across two or mor
 
 Converting an unsharded database to a sharded one is seamless, therefore it’s much better to go for sharding in case there’s a need for it. As a minimum, there are 3 config servers for a shard, and at least 2 sharded MongoDB instances. On config servers, also MongoDB instances are run, with a minor difference that they are configured to act as configuration servers.
 
-<div class="centered">
-	<img src="http://support.count.ly/help/assets/44299239ef8435a23d8f8ae1c0ee25410976a928/2_normal.png"/>
-</div>
+
+<img src="http://support.count.ly/help/assets/44299239ef8435a23d8f8ae1c0ee25410976a928/2_normal.png"/>
+
 
 Since reads in MongoDB are much faster than writes, it’s best to dedicate a higher percentage of system resources to writes (e.g by using faster disks). MongoDB writes are in RAM and they eventually get synced to disk since MongoDB uses memory mapped files.
 
