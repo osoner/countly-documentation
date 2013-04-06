@@ -31,18 +31,12 @@ This page gives a list of current Countly features. This is a live page, and wil
 
 ##3. Device SDKs
 
-* [SDK for iOS devices](/kb/sdk-installation/installing-countly-ios-sdk). *Requires minimum iOS version 3.X*
-* [SDK for Android devices](/kb/sdk-installation/installing-countly-android-sdk). *Requires minimum Android version 2.2*
-* [SDK for Windows Phone devices](https://github.com/Countly/countly-sdk-windows-phone/) by Tom Myles, Devran Erogul and Orkun Senturk.
-* [SDK for Blackberry WebWorks SDK](https://github.com/Countly/countly-sdk-blackberry-webworks) by ArtIstanbul Team
-* [SDK for Titanium Appcelerator](https://github.com/euforic/Titanium-Count.ly) by Christian Sullivan
-* [SDK for Mac OS X](https://github.com/mrballoon/countly-sdk-osx/) by Pavel
-* [SDK for Unity3D](http://github.com/Countly/countly-sdk-unity) by Panteon Technologies
-* Alternative [SDK for iOS](https://github.com/calebmdavenport/metricskit). by Caleb Davenport
+Client libraries (SDKs) are available for mobile devices (iOS, Android, Blackberry, Windows Phone), desktop applications and Flash (e.g Facebook) pages. See [a list of SDKs](/documentation/source/download-sdk) supported by Countly and community.
+
 
 ##4. Countly API features
 
-* Clean, [well documented](http://support.count.ly/kb/reference/countly-server-api-reference) API
+* Clean, [well documented API](/documentation/reference/server-api)
 * Countly Read API to retrieve data from server
 * Countly Write API to send mobile data to the server
 
