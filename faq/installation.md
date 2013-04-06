@@ -1,7 +1,10 @@
 #Installation FAQ
 
 ##Where can I download Countly?
-All source code can be found on [Github](https://github.com/Countly/) and ready-to-install zip files for server and mobile SDKs are hosted on [Sourceforge](https://sourceforge.net/projects/countly/).
+
+* [Download Countly server in source code](http://github.com/Countly/countly-server)
+* [Download Countly in zip file from Sourceforge](http://sf.net/projects/countly)
+* [Download Countly client libraries (SDKS) in source code](/documentation/source/download-sdk)
 
 ##How much time does it take to install Countly?
 If your server has all the requirements, then it takes approximately 5-15 minutes to install Countly and start collecting data from devices. Follow the instructions in the [Server Installation Manual](http://support.count.ly/kb/web-installation). Note that installation and configuration does not need any developer skills but only a **dedicated** server for this purpose.
