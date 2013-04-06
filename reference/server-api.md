@@ -1,4 +1,4 @@
-#Countly Server API Reference - Analytics Data Read/Write
+#Countly Server API Reference
 
 This document describes the API functionality provided with Countly Server. Both read (`/o`) and write (`/i`) requests are available through the Countly Server API.
 
