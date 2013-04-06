@@ -132,7 +132,7 @@ Countly benefits from custom events. It helps product developers and user experi
 ![Screen_Shot_2012-11-13_at_22.26.47.png](http://support.count.ly/help/assets/54bbadcb38ad918501ed3be6c650b74b8e27d49c/Screen_Shot_2012-11-13_at_22.26.47_normal.png)
 
 
-For more information about how to capture and send events to Countly server, see [Custom Events](http://support.count.ly/kb/reference/custom-events) article. For references and hands-on examples, please see [SDK methods for custom events](http://support.count.ly/kb/reference/sdk-methods-for-custom-events).
+For more information about how to capture and send events to Countly server, see [Custom Events](/documentation/reference/custom-events) article. For references and hands-on examples, please see [SDK methods for custom events](http://support.count.ly/kb/reference/sdk-methods-for-custom-events).
 
 
 # 5. Managing applications & users
