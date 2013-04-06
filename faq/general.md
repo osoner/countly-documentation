@@ -10,13 +10,13 @@ We believe that analytics software should be simple, incomplex and should just s
 Countly tracks mobile applications and mobile devices using a small plugin (SDK) that you integrate in your application in under 10 minutes. After you submit your application to relevant application store, Countly immediately starts collecting data.
 
 ##How do I know when a new server version is available?
-We distribute each version through our [Sourceforge page](sf.net/projects/countly). Countly [changelog](https://github.com/Countly/countly-server/blob/master/CHANGELOG) lists all Countly versions and corresponding changelogs. If you want to get notified when a new version is out, make sure you are subscribed to Countly newsletter.
+We distribute each version through our [Sourceforge page](sf.net/projects/countly). Countly [changelog](/documentation/reference/changelog) lists all Countly versions and corresponding changelogs. If you want to get notified when a new version is out, make sure you are subscribed to Countly newsletter.
 
 ##Which languages does Countly support?
 Countly supports more than 11 languages. Head over to [Countly localization project](http://transifex.com/projects/p/countly/) and support us if your language is not in the list. Sending an email to us will suffice to start.
 
 ##Where can I download Countly server and mobile SDKs?
-All source code can be found on [Github](https://github.com/Countly/) and ready-to-install zip files for server and mobile SDKs are hosted on [Sourceforge](https://sourceforge.net/projects/countly/).
+All source code can be found on [Github](https://github.com/Countly/). Ready-to-install zip files for server and mobile SDKs are hosted on [Sourceforge](https://sourceforge.net/projects/countly/).
 
 ##Why is Countly open source?
 We want our application created not by a handful of developers, but hundreds. We want to discuss the future of Countly in an open, democratic environment. We want your ideas to put in the next release, so academics, businesses and SMEs can benefit immediately. Feel free to take part in our friendly community, and send your bug reports, feature requests, provide fixes and best practices.
@@ -26,16 +26,15 @@ Versions are YY.MM.VV where YY and MM denote year and month when the release is 
 
 ##Which mobile operating systems are supported?
 Countly officially offers integration with world's four leading smartphone operating systems, 
-Android, iOS, Windows Phone and Blackberry. 
-There's also a [Titanium iOS SDK](https://github.com/euforic/Titanium-Count.ly/)  
-and [Unity3D SDK](https://github.com/Countly/countly-sdk-unity) developed by community member(s).
+Android, iOS, Windows Phone and Blackberry. However, Countly can also track desktop applications and any devices 
+which are capable of sending HTTP requests in general. For a list of SDKs, [see this page](http://new.count.ly/documentation/source/download-sdk).
 
-##Is it possible to use Countly for desktop analytics? 
-Yes, we have a [community-contributed Mac OSX SDK](https://github.com/mrballoon/countly-sdk-osx). Use this to track 
+##How can I use Countly for desktop analytics? 
+There's a [community-contributed Mac OSX SDK](https://github.com/mrballoon/countly-sdk-osx). Use this to track 
 your Mac OS X applications.
 
 ##Can I use one account for several applications?
-Yes, one account can control more than one application.
+Yes, one account can control more than one application. 
 
 ##How can I help you with your efforts?
 Glad you asked. We need ideas, feedbacks and constructive comments. All your suggestions will be handled by one of our staff and will be taken care with upmost importance. If you are a developer, please [fork our repositories](https://github.com/Countly/) and send pull requests.
