@@ -36,7 +36,7 @@ Installation is well tested on Ubuntu instances from 10.04 to 12.04. We strongly
 
 In its basic form, installer is used for a single instance, e.g doesn’t configure the system to work on multiple nodes. Therefore a single node is capable of handling a limited number of sessions coming from devices. A mid-range server can handle *300+ requests* per second (more than *25 million requests per day*), which is equivalent to roughly *10.000 users at the same time*. If the user base is more than that, MongoDB should be replicated and proper load balancing scenarios should be used.
 <div class="centered">
-	<img src="/help/assets/ea7a0a214a43f37d7dd8bf0836e83029b8fdcf81/1_normal.png"/>
+	<img src="http://support.count.ly/help/assets/ea7a0a214a43f37d7dd8bf0836e83029b8fdcf81/1_normal.png"/>
 </div>
 Countly is also [installable on Heroku](https://github.com/gabrielrinaldi/Countly-Frontend-Heroku), a PaaS service, so it’s possible to extend Countly with PaaS offerings by Heroku. We strongly advise you to take a look with this option, if you are willing to go with a hosted solution rather than on-premise.
 
