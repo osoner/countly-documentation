@@ -1,7 +1,7 @@
 #Licencing FAQ
 
-##How many different Countly Editions are there? 
-There are 3 basic editions: 
+##How many different Countly editions are there? 
+There are 3 editions: 
 
 * [Community Edition](/products/editions/community): This is our open-source, self-hosted version of the Countly mobile analytics platform. 
 * [Cloud Edition](/products/editions/cloud): This edition is for companies who need a reliable, secure and supported SaaS mobile analytics solution. 
