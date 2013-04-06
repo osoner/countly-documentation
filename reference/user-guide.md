@@ -60,6 +60,15 @@ Each widget shows the following:
 5. **Average time spent:** Total time spent using your application divided by total user count. Click this item to see a time series representation of average time spent per user.
 6. **Average requests received:** Number of write API requests Countly Server received for this application divided by total user count. Click this item to see a time series representation of average events per user.
 
+For each time series chart, there is a light gray and dark gray line. Ligh gray line shows the previous time 
+frame for comparison purposes.
+
+For example:
+
+* Click on 7 days and light lines will show stats between -14 days & -7 days.
+* Click on Today and light lines will show stats for yesterday.
+* Click on Apr and light lines will show corresponding days of March.
+
 Below the chart, there are 4 black widgets that show the top platform (e.g Android or iOS), top resolution, top carrier as retrieved from device and top users. If you move your mouse over the line graphics here, you’ll see that data will change and show you 2nd and 3rd larges data source (if exists).
 
 Under black widgets, there’s a colorful world map showing which countries use your application more. The greener a country is, the more your application is used in corresponding geographic area. On the left to the world map, you’ll see a list of countries (top 7) where your application is used most. Each number next to a country name shows the total number of session.
