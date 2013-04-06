@@ -1,4 +1,4 @@
-[
+var menu = [
     {
         name:"FAQ",
         label:"faq",
@@ -36,4 +36,6 @@
             { link:"ios", name:"iOS" }
         ]
     }
-]
+];
+
+module.exports = menu;
