@@ -28,7 +28,7 @@ Countly features include, but not limited to:
 
 Countly is a true real-time service, showing updates every 10 seconds from user interface – which is also a configurable parameter.
 
-# Installation
+## Installation
 
 It’s advised to install Countly on a separete server to provide maximum compatibility, performance and usability. Since Countly runs on port 80 to serve its dashboard, there shouldn’t be any other web service running on the same port.
 
@@ -40,7 +40,7 @@ In its basic form, installer is used for a single instance, e.g doesn’t config
 </div>
 Countly is also [installable on Heroku](https://github.com/gabrielrinaldi/Countly-Frontend-Heroku), a PaaS service, so it’s possible to extend Countly with PaaS offerings by Heroku. We strongly advise you to take a look with this option, if you are willing to go with a hosted solution rather than on-premise.
 
-# Device SDKs
+## Device SDKs
 
 Countly is an open source project -both for server and client side code- that is, a developer writes his own device SDK (e.g Samsung Smart TV) and benefit from Countly’s infrastructure to collect packages and then analyse outputs. If the device can make HTTP GET requests and provides required information, then it’s basically possible to write an SDK for the corresponding device. Any language can be used to write the SDK.
 
