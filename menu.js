@@ -28,6 +28,14 @@ var menu = [
             { link:"user-guide", name:"User Guide" }
         ]
     },
+     {
+        name:"Source",
+        label:"source",
+        items:[
+            { link:"download-", name:"Download Server" },
+            { link:"download-", name:"Download SDK" }
+        ]
+    },
     {
         name:"SDK Installation",
         label:"sdk-installation",
