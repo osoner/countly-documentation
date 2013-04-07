@@ -1,4 +1,13 @@
-Countly can be installed on Ubuntu Linux, running 10.04 LTS, 11.10 or 12.04 LTS. We will not be talking about securing our web server in this article (disabling root ssh, private keys, closing default ports etc.) for the sake of keeping things focused. 
+# Server installation 
+
+### Requirements
+
+Countly can be installed on Ubuntu Linux, running 10.04 LTS, 11.10 or 12.04 LTS. We highly recommend that you use
+a dedicated VPS for Countly. By default, Node.js (the web server Countly needs) need to run on port 80, so make sure 
+this port is free, i.e Apache is not running.
+
+In this article, we will not be talking about securing your web server, like disabling root ssh, 
+private keys, closing default ports etc. for the sake of keeping things focused. 
 
 **IMPORTANT NOTE: ** Easy installation script provided inside countly-server-v12.12.zip (countly/bin/coountly.install.sh) takes care of all the steps listed below. We strongly suggest you use that script instead.
 
