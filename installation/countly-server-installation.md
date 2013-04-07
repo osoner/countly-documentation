@@ -75,7 +75,7 @@ sudo apt-get install build-essential
 **Supervisor** is the process monitor that is used to run API and Dashboard processes of Countly. If any of them die Supervisor will restart the process and keep things working. **Imagemagick** is used for processing your application icons. **Build essential** package contains necessary tools to compile some node modules and libraries Countly depends on.
 
 
-## 9. Extract countly-server-v12.12.zip
+## 9. Extract ZIP file
 
 If you haven't downloaded Countly yet, [do it now](/documentation/source/download-server). Copy the zip file 
 in a directory that can be used to serve files (e.g /usr/local).
@@ -83,7 +83,7 @@ in a directory that can be used to serve files (e.g /usr/local).
 Extract the file:
 
 <pre class="prettyprint lang-sh">
-unzip countly-server-v12.12.zip
+unzip countly-server-versionNumber.zip
 </pre>
 
 ## 10. Install Node.js time module
@@ -107,7 +107,7 @@ respawn
 exec /usr/bin/supervisord --nodaemon --configuration YOUR_PATH_TO_COUNTLY/countly/bin/config/supervisord.conf
 </pre>
 
-Don't forget to change `YOUR_PATH_TO_COUNTLY` to the directory where you have extracted the countly-server-v12.12.zip package.
+Don't forget to change `YOUR_PATH_TO_COUNTLY` to the directory where you have extracted the Countly server ZIP package.
 
 ## 12. Create API and Dashboard configuration files
 
