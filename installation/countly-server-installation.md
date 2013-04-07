@@ -11,7 +11,7 @@ this port is free, i.e Apache is not running.
 In this article, we will not be talking about securing your web server, like disabling root ssh, 
 private keys, closing default ports etc. for the sake of keeping things focused. 
 
-*IMPORTANT NOTE:* Easy installation script provided inside countly-server-v12.12.zip (countly/bin/coountly.install.sh) takes care of all the steps listed below. We strongly suggest you use that script instead.
+*IMPORTANT NOTE:* Easy installation script provided inside ZIP file (`countly/bin/coountly.install.sh`) takes care of all the steps listed below. We strongly suggest you use that script instead.
 
 This is how you'll fire the easy installation script that comes with Countly: 
 
