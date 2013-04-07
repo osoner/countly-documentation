@@ -24,6 +24,8 @@ If you are brave enough, go on :-)
 
 ## 1. First things first
 
+Update your repository information.
+
 <pre class="prettyprint lang-sh">sudo apt-get update</pre>
 
 ## 2. Install python-software-properties
@@ -50,7 +52,6 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
 <pre class="prettyprint lang-sh">sudo apt-get install nginx</pre>
 
 **Nginx** web server is used as a proxy to our API and Dashboard nodes. We will configure and start our nginx server after completing all package installations.
-
 
 ## 6. Install Node.js and NPM
 
