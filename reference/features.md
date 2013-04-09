@@ -13,7 +13,7 @@ This page gives a list of current Countly features. This is a live page, and wil
 ##2. Mobile analytics features
 
 * Custom event tracking with advanced segmentation
-* General dashboard view showing top platform, carrier, users, resolution
+* General dashboard view showing top platform, carrier, users
 * Number of online users widget (cloud version)
 * Retention calculation & cohorts (cloud version)
 * Country-based tracking
