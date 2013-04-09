@@ -41,7 +41,7 @@ var menu = [
         name:"Installation",
         label:"installation",
         items:[
-            { link:"countly-server-installation", name:"Server" },
+            { link:"countly-server-installation", name:"Countly Server" },
             { link:"android", name:"Android SDK" },
             { link:"ios", name:"iOS SDK" },
             { link:"blackberry-webworks", name:"Blackberry WebWorks SDK" },
