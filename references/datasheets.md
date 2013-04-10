@@ -10,7 +10,7 @@ variety of environments.
       <tbody>
 
       <tr>
-        <td width=150><img src=/images/installation_configuration_scenarios.png width=150 height=185></td>
+        <td width=150><img style="border: 1px solid #c0c0c0; padding: 1px;" src=/images/installation_configuration_scenarios.png width=150 height=185></td>
         <td width=550 valign=top><p>Countly is an extensible, open source mobile
         analytics solution for mobile application developers. It tracks
         applications, customer behaviour or game mechanics - so you can
