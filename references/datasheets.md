@@ -14,11 +14,8 @@ variety of environments.
         <td width=550 valign=top><p>Countly is an extensible, open source mobile
         analytics solution for mobile application developers. It tracks
         applications, customer behaviour or game mechanics - so you can
-        focus on increasing user loyalty and engagement. </p>
-
-        <p>This document explains different installation and configuration        
-        scenarios in order to let you benefit from Countly more. It also explains
-        sharding, a method to increase performance for Enterprise Edition</p>
+        focus on increasing user loyalty and engagement. This document explains different installation and configuration        
+        scenarios in order to let you benefit from Countly more.</p>
 
 
 <center><p><a class="sign-in" href=/products/editions/download>Download now</a></p></center>
