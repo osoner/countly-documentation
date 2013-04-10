@@ -26,7 +26,7 @@ variety of environments.
   </table>
 
 
-  <table class="static">
+  <table class="datasheet">
       <tbody>
 
       <tr>
