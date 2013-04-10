@@ -10,7 +10,7 @@ var menu = [
         ]
     },
     {
-        name:"References",
+        name:"Documentation",
         label:"reference",
         items:[
             { link:"user-guide", name:"User guide" },
@@ -27,6 +27,14 @@ var menu = [
             { link:"translating-countly", name:"Translating Countly" },
             { link:"glossary", name:"Glossary" },
             { link:"useful-links", name:"Useful links" }            
+        ]
+    },
+     {
+        name:"References",
+        label:"references",
+        items:[
+            { link:"datasheets", name:"datasheets" },
+            { link:"presentations", name:"presentations" }
         ]
     },
      {
