@@ -37,7 +37,7 @@ variety of environments.
         the know-how to monitor, measure and benchmark the collected
         data.</p>
 
-<center><p><a class="sign-in" href=/products/editions/download>Download now</a></p></center>
+<center><p><a class="sign-in" href=/resources/Countly_Mobile_Analytics_101_Whitepaper.pdf>Download now</a></p></center>
         </td>
       </tr>
 
