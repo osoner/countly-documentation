@@ -80,6 +80,8 @@ Converting an unsharded database to a sharded one is seamless, therefore it’s 
 
 Since reads in MongoDB are much faster than writes, it’s best to dedicate a higher percentage of system resources to writes (e.g by using faster disks). MongoDB writes are in RAM and they eventually get synced to disk since MongoDB uses memory mapped files.
 
+**Note:** Sharding is available only in Enterprise Edition. 
+
 ## High availability and disaster recovery (replica sets)
 
 While gathering analytics data is not as critical as gathering a customer information data and keeping it safe, we must make sure that all data is replicated, and recovered in case of a failure occurs. Major advantages of replica sets are business continuity through high availability, data safety through data redundancy, and read scalability through load sharing (reads).
