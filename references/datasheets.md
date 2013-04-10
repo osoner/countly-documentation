@@ -6,7 +6,7 @@ variety of environments.
 
 
 
-  <table class="static">
+  <table class="datasheet">
       <tbody>
 
       <tr>
