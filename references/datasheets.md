@@ -6,7 +6,7 @@ variety of environments.
 
 
 
-  <table class="datasheet">
+  <table class="static">
       <tbody>
 
       <tr>
@@ -26,7 +26,7 @@ variety of environments.
   </table>
 
 
-  <table class="datasheet">
+  <table class="static">
       <tbody>
 
       <tr>
