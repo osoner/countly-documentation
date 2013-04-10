@@ -33,8 +33,8 @@ var menu = [
         name:"References",
         label:"references",
         items:[
-            { link:"datasheets", name:"datasheets" },
-            { link:"presentations", name:"presentations" }
+            { link:"datasheets", name:"Datasheets" },
+            { link:"presentations", name:"Presentations" }
         ]
     },
      {
