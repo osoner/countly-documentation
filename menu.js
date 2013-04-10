@@ -22,7 +22,6 @@ var menu = [
             { link:"contributors", name:"Contributors" },
             { link:"custom-events", name:"Custom events" },
             { link:"sdk-methods-for-custom-events", name:"Custom events SDK methods" },
-            { link:"implementation-scenarios", name:"Implementation scenarios" },
             { link:"increasing-performance", name:"Increasing performance" },
             { link:"translating-countly", name:"Translating Countly" },
             { link:"glossary", name:"Glossary" },
