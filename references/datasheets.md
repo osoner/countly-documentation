@@ -33,7 +33,7 @@ variety of environments.
       <tbody>
 
       <tr>
-        <td width=150><img src=/images/mobile_analytics_101.png width=150 height=185></td>
+        <td width=150><img style="border: 1px solid #c0c0c0; padding: 0px;" src=/images/mobile_analytics_101.png width=150 height=185></td>
         <td width=550><p>Mobile is everywhere. Building a complete mobile
         analytics strategey for every company is ineviatable. Rather
         than only displaying the graphics, it's critical to have 
