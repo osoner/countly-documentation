@@ -74,9 +74,9 @@ Sharding is the method MongoDB uses in order to split its data across two or mor
 
 Converting an unsharded database to a sharded one is seamless, therefore it’s much better to go for sharding in case there’s a need for it. As a minimum, there are 3 config servers for a shard, and at least 2 sharded MongoDB instances. On config servers, also MongoDB instances are run, with a minor difference that they are configured to act as configuration servers.
 
-
+<div class="centered">
 <img src="http://support.count.ly/help/assets/44299239ef8435a23d8f8ae1c0ee25410976a928/2_normal.png"/>
-
+</div>
 
 Since reads in MongoDB are much faster than writes, it’s best to dedicate a higher percentage of system resources to writes (e.g by using faster disks). MongoDB writes are in RAM and they eventually get synced to disk since MongoDB uses memory mapped files.
 
@@ -86,9 +86,9 @@ While gathering analytics data is not as critical as gathering a customer inform
 
 With replica sets, MongoDB language drivers know the current primary. All write operations go to the primary. If the primary is down, the drivers know how to get to the new primary (an elected new primary), this is auto failover for high availability. The data is replicated after writing. Drivers always write to the replica set's primary (called the master), the master then replicates to slaves. The primary is not fixed – the master/primary is nominated.
 
-
-	<img src="http://support.count.ly/help/assets/b4bb70bb8a63c8ba648ee0203671a2e1c1000be4/3_normal.png"/>
-
+<div class="centered">
+<img src="http://support.count.ly/help/assets/b4bb70bb8a63c8ba648ee0203671a2e1c1000be4/3_normal.png"/>
+</div>
 
 Typically you have at least three MongoDB instances in a replica set on different server machines. You can add more replicas of the primary if you like for read scalability, but you only need three for high availability failover. If there are three instances and one goes down, the load for the remaining instances only go up by 50%  (which is the preferred situation). If business continuity is important, then having at least three instances is the best plan.
 
@@ -96,8 +96,9 @@ Typically you have at least three MongoDB instances in a replica set on differen
 
 Figure below shows how the complete system with sharding and replication enabled.
 
-	<img src="http://support.count.ly/help/assets/f5ad07ee21884fa2b9035cd35844226ea281195c/4_normal.png"/>
-
+<div class="centered">
+<img src="http://support.count.ly/help/assets/f5ad07ee21884fa2b9035cd35844226ea281195c/4_normal.png"/>
+</div>
 
 Here, you’ll easily see that:
 
