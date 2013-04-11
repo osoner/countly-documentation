@@ -16,15 +16,11 @@ variety of environments.
         applications, customer behaviour or game mechanics - so you can
         focus on increasing user loyalty and engagement. This document explains different installation and configuration        
         scenarios in order to let you benefit from Countly more.</p>
-
-
-<center><p><a class="sign-in" href=/products/editions/download>Download now</a></p></center>
+        <center><p><a class="sign-in" href=/resources/Installation_Configuration_Scenarios_WhitePaper.pdf>Download now</a></p></center>
         </td>
       </tr>
-
     </tbody>
   </table>
-
 
   <table class="static">
       <tbody>
@@ -36,8 +32,7 @@ variety of environments.
         than only displaying the graphics, it's critical to have 
         the know-how to monitor, measure and benchmark the collected
         data.</p>
-
-<center><p><a class="sign-in" href=/resources/Countly_Mobile_Analytics_101_Whitepaper.pdf>Download now</a></p></center>
+        <center><p><a class="sign-in" href=/resources/Countly_Mobile_Analytics_101_Whitepaper.pdf>Download now</a></p></center>
         </td>
       </tr>
 
