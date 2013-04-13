@@ -10,7 +10,7 @@ We believe that analytics software should be simple, incomplex and should just s
 Countly tracks mobile applications and mobile devices using a small plugin (SDK) that you integrate in your application in under 10 minutes. After you submit your application to relevant application store, Countly immediately starts collecting data.
 
 ##How do I know when a new server version is available?
-We distribute each version through our [Sourceforge page](sf.net/projects/countly). Countly [changelog](/documentation/reference/changelog) lists all Countly versions and corresponding changelogs. If you want to get notified when a new version is out, make sure you are subscribed to Countly newsletter.
+We distribute each version through our [Sourceforge page](sf.net/projects/countly). Countly [changelog](/resources/reference/changelog) lists all Countly versions and corresponding changelogs. If you want to get notified when a new version is out, make sure you are subscribed to Countly newsletter.
 
 ##Which languages does Countly support?
 Countly supports more than 11 languages. Head over to [Countly localization project](http://transifex.com/projects/p/countly/) and support us if your language is not in the list. Sending an email to us will suffice to start.
