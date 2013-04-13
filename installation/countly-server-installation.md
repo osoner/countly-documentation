@@ -196,4 +196,11 @@ Start Nginx server;
 
 ## Congratulations!
 
-You have successfully installed Countly on your server. Now go to `http://YOUR_SERVER_IP_OR_DOMAIN` in order to create your admin account and login to your dashboard.
+You have successfully installed Countly on your server. Now `http://YOUR_SERVER_IP_OR_DOMAIN` in order to 
+create your admin account and login to your dashboard. Also do not forget to download client SDKs using button below:
+
+<center>
+<p><a class="sign-in" href="/resources/source/download-sdk">Download client SDKs</a></p>
+</center>
+
+Have Fun! :)
