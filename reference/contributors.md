@@ -14,6 +14,7 @@ Countly, like other open source projects, needs contributors: that's what keeps 
 * Gabriel Rinaldi (Heroku porting)
 * Christian Sullivan (Titanium iOS SDK)
 * Ufuk Şahin - Panteon Technologies (Unity3D SDK)
+* Brandon Trebitowski (Corona SDK)
 * Walter Zheng (various fixes to Countly server, Chinese localization)
 * Recep Kırmızı (Blackberry WebWorks SDK)
 * Damien Laureaux (French localization)
