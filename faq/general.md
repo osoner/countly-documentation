@@ -27,7 +27,7 @@ Versions are YY.MM.VV where YY and MM denote year and month when the release is 
 ##Which mobile operating systems are supported?
 Countly officially offers integration with world's four leading smartphone operating systems, 
 Android, iOS, Windows Phone and Blackberry. However, Countly can also track desktop applications and any devices 
-which are capable of sending HTTP requests in general. For a list of SDKs, [see this page](http://new.count.ly/documentation/source/download-sdk).
+which are capable of sending HTTP requests in general. For a list of SDKs, [see this page](/resources/source/download-sdk).
 
 ##How can I use Countly for desktop analytics? 
 There's a [community-contributed Mac OSX SDK](https://github.com/mrballoon/countly-sdk-osx). Use this to track 
