@@ -31,12 +31,12 @@ This page gives a list of current Countly features. This is a live page, and wil
 
 ##3. Device SDKs
 
-Client libraries (SDKs) are available for mobile devices (iOS, Android, Blackberry, Windows Phone), desktop applications and Flash (e.g Facebook) pages. See [a list of SDKs](/documentation/source/download-sdk) supported by Countly and community.
+Client libraries (SDKs) are available for mobile devices (iOS, Android, Blackberry, Windows Phone), desktop applications and Flash (e.g Facebook) pages. See [a list of SDKs](/resources/source/download-sdk) supported by Countly and community.
 
 
 ##4. Countly API features
 
-* Clean, [well documented API](/documentation/reference/server-api)
+* Clean, [well documented API](/resources/reference/server-api)
 * Countly Read API to retrieve data from server
 * Countly Write API to send mobile data to the server
 
