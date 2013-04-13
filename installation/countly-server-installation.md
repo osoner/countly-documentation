@@ -2,6 +2,10 @@
 
 This document explains how to install Countly server version 12.08, 12.09, 12.12 and 13.04
 
+<center>
+<p><a class="sign-in" href="http://sf.net/projects/countly">Download Countly Community Edition First</a></p>
+</center>
+
 ### Requirements
 
 Countly can be installed on Ubuntu Linux, running 10.04 LTS, 11.10 or 12.04 LTS. We highly recommend that you use
