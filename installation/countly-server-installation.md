@@ -3,7 +3,7 @@
 This document explains how to install Countly server version 12.08, 12.09, 12.12 and 13.04
 
 <center>
-<p><a class="sign-in" href="http://sf.net/projects/countly">Download Countly Community Edition First</a></p>
+<p><a class="sign-in" href="http://sf.net/projects/countly">Download Countly Community Edition</a></p>
 </center>
 
 ### Requirements
