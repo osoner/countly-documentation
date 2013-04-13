@@ -53,7 +53,7 @@ In the first example the eventSender method just creates an event named 'testeve
 sends that event to the server if the loop size and session duration conditions are satisfied.
 In the second example; we are giving some specific information about our event, such 
 as 'sum' and 'segment'. If you want to learn more about these optional parameters, 
-[you can check out this address](/documentation/reference/server-api).
+[you can check out this address](/resources/reference/server-api).
 
 All you need to do is defining your event, nothing more. You don't need to care about 
 things like ending your session or closing link with Countly server. Your Countly BlackBerry WebWorks SDK 
