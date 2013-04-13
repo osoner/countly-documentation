@@ -19,7 +19,7 @@ Our lightweight SDK works asynchronously and doesn't block any function calls in
 If your mobile application cannot send an event information (mainly due to the fact that device is not connected to internet, user is on a plane or underground), then this information is stored in memory. As soon as the connection is established, it's sent to the server.
 
 ##How many users can a Countly server handle?
-In our tests, a decent server can handle 700 events per second, which is roughly 20.000 concurrent mobile users. See [implementation and configuration scenarios](/documentation/reference/implementation-scenarios) for potential installation alternatives.
+In our tests, a decent server can handle 700 events per second, which is roughly 20.000 concurrent mobile users. See [implementation and configuration scenarios](/resources/reference/implementation-scenarios) for potential installation alternatives.
 
 ##Where should I put my Countly start code for Android? 
 In as much activity as you can, preferably in each activity.
