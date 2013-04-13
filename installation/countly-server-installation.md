@@ -78,7 +78,7 @@ sudo apt-get install build-essential
 
 ## 9. Extract ZIP file
 
-If you haven't downloaded Countly yet, [do it now](/documentation/source/download-server). Copy the zip file 
+If you haven't downloaded Countly yet, [do it now](/resources/source/download-server). Copy the zip file 
 in a directory that can be used to serve files (e.g /usr/local).
 
 Extract the file:
