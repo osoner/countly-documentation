@@ -17,6 +17,12 @@ Please contact us for possible rebranding and support options.
 ##When I download Countly, do I get all the source code?
 Yes, all the source code is provided unencrypted.
 
+## I want to resell Countly and provide value for my ecosystem, how can I do that? 
+Countly offers its customers top-notch, proven technology solving mobile business challenges, 
+through global network of leading software vendors, resellers, distributors and system integrators. 
+Please see <a href=/partners/program-overview>this link for our partnership program.</a>
+
+
 ##What's the licensing terms for SDKs (client libraries)?
 iOS and Android SDK have a very permissive MIT license. It basically allows reuse within 
 proprietary software provided all copies of the licensed software include a copy of the MIT License terms.
