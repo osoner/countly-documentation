@@ -30,6 +30,17 @@ Countly counts new user as unique device IDs, that is, if a user downloads the s
 ##What's the hostname I should write inside SDK when I use Countly Cloud?
 You must use https://cloud.count.ly when you use our service, instead of your own server.
 
+## I reinstalled Countly and need to create an app using the previous key. How can I do that? 
+
+If you reinstalled Countly and need the app key in order to create another application with he same key used by
+your previous applications,follow the steps below: 
+
+1. Login to your server shell
+2. Connect to mongodb like this: `mongo countly`
+3. Execute `db.apps.find()`
+4. Find the id of the application that you want to modify 
+5. Execute the update like this: `db.apps.update({id: "ID_YOU_GOT_FROM_PREVIOUS_STEP"},{"$set": {"app_key": "NEW_APP_KEY"}});`
+
 ##How can I test my new translations and where do I put my files?
 Under countly/frontend/express/public/localization there are three folders;
 
