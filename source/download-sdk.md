@@ -16,7 +16,7 @@ These client libraries are developed and supported by Countly community.
 
 * [Unity SDK](https://github.com/Countly/countly-sdk-unity)
 * [Titanium Appcelerator SDK (iOS)](https://github.com/euforic/Titanium-Count.ly)
-* [Titanium Appcelerator SDK (Android)[https://github.com/shivakumars/Titanium-Android-Count.ly]
+* [Titanium Appcelerator SDK (Android)](https://github.com/shivakumars/Titanium-Android-Count.ly)
 * [Actionscript 3 SDK](https://github.com/Countly/countly-sdk-as3) 
 * [Mac OSX SDK](https://github.com/mrballoon/countly-sdk-osx)
 * [iOS and Mac OS X SDK](https://github.com/benoitsan/countly-sdk-cocoa) with many add-on features
