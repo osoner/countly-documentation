@@ -9,21 +9,21 @@ It’s also possible to start a translation effort of your own in case nobody ju
 Currently localized languages:
 
 <table>
-  <tr>
+  <tr width=150>
   <td>English</td>
   <td>Chinese</td>
   <td>Dutch</td>
   <td>Korean</td>
   <td>French</td>
   </tr>
-  <tr>
+  <tr width=150>
   <td>Italian</td>
   <td>Arabic</td>
   <td>Japanese</td>
   <td>Spanish</td>
   <td>Turkish</td>
   </tr>
-  <tr>
+  <tr width=150>
   <td>German</td>
   <td>Slovakian</td>
   <td>Greek</td>
@@ -32,20 +32,5 @@ Currently localized languages:
   </tr>
 </table>
 
-
-* English  (original)
-* Chinese
-* Dutch
-* Korean
-* French
-* Italian
-* Arabic
-* Japanese
-* Spanish
-* Turkish
-* German
-* Slovenian
-* Greek
-* Latvian
 
 Note that not all languages may be translated 100%.
