@@ -10,7 +10,7 @@ Currently localized languages:
 
 <table>
   <tr width=150>
-  <td>English</td>
+  <td><img src=http://new.count.ly/images/flags/flags/shiny/48/England.png>English</td>
   <td>Chinese</td>
   <td>Dutch</td>
   <td>Korean</td>
