@@ -26,10 +26,10 @@ Currently localized languages:
 
   </tr>
   <tr width=150>
-  <td>German</td>
-  <td>Slovakian</td>
-  <td>Greek</td>
-  <td>Latvian</td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Germany.png><p>German</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Slovakia.png><p>Slovakian</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Greece.png><p>Greek</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Latvia.png><p>Latvian</center></td>
   <td>&nbsp;</td>
   </tr>
 </table>
