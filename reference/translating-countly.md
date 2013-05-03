@@ -10,7 +10,7 @@ Currently localized languages:
 
 <table>
   <tr width=150>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/United Kingdom.png><p>English</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/United-Kingdom.png><p>English</center></td>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/China.png><p>Chinese</center></td>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Netherlands.png><p>Dutch</center></td>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/South-Korea.png><p>Korean</center></td>
