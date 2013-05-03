@@ -14,14 +14,16 @@ Currently localized languages:
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/China.png><p>Chinese</center></td>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Netherlands.png><p>Dutch</center></td>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/South-Korea.png><p>Korean</center></td>
-  <td>French</td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/France.png><p>French</center></td>
+
   </tr>
   <tr width=150>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Italy.png><p>Italian</center></td>
-  <td>Arabic</td>
-  <td>Japanese</td>
-  <td>Spanish</td>
-  <td>Turkish</td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/France.png><p>Arabic</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Japan.png><p>Japanese</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Turkey.png><p>Turkish</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Spain.png><p>Spanish</center></td>
+
   </tr>
   <tr width=150>
   <td>German</td>
