@@ -17,18 +17,18 @@ Currently localized languages:
   <td>French</td>
   </tr>
   <tr>
-  <td>English</td>
-  <td>Chinese</td>
-  <td>Dutch</td>
-  <td>Korean</td>
-  <td>French</td>
+  <td>Italian</td>
+  <td>Arabic</td>
+  <td>Japanese</td>
+  <td>Spanish</td>
+  <td>Turkish</td>
   </tr>
   <tr>
-  <td>English</td>
-  <td>Chinese</td>
-  <td>Dutch</td>
-  <td>Korean</td>
-  <td>French</td>
+  <td>German</td>
+  <td>Slovakian</td>
+  <td>Greek</td>
+  <td>Latvian</td>
+  <td>&nbsp;</td>
   </tr>
 </table>
 
