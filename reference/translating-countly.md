@@ -12,8 +12,8 @@ Currently localized languages:
   <tr width=150>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/England.png><p>English</center></td>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/China.png><p>Chinese</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Nederlands.png><p>Dutch</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Korea.png><p>Korean</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Netherlands.png><p>Dutch</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/South-Korea.png><p>Korean</center></td>
   <td>French</td>
   </tr>
   <tr width=150>
