@@ -8,6 +8,15 @@ It’s also possible to start a translation effort of your own in case nobody ju
 
 Currently localized languages:
 
+
+
+| ------------- |:-------------:| -----:|
+| English | Italian | German |
+| Chines  | Arabic      |   Slovenian |
+| Dutch | Japanese      |    Greek |
+| Korean | Spanish      |   Latvian |
+| French | Turkish      |    |
+
 * English  (original)
 * Chinese
 * Dutch
