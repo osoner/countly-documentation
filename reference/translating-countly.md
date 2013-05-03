@@ -11,7 +11,7 @@ Currently localized languages:
 <table>
   <tr width=150>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/England.png><p>English</center></td>
-  <td>Chinese</td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/China.png><p>Chinese</center></td>
   <td>Dutch</td>
   <td>Korean</td>
   <td>French</td>
