@@ -1,5 +1,6 @@
 #Countly Changelog
 
+<!-- 
 
 ####13.04
 
@@ -26,6 +27,8 @@
 * Added host configuration to both app.js and api.js configuration, defaults to "localhost".
 
 * Added script (bin/geoip-updater.sh) to automatically download latest geoip data files from MaxMind and process them according to geoip-lite module requirements. After running this script you need to restart master api.js process.
+
+--> 
 
 ####12.12
 
