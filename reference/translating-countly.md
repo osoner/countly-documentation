@@ -10,13 +10,25 @@ Currently localized languages:
 
 <table>
   <tr>
-Englsh  
-</tr>
-  <tr>
-Chinese
+  <td>English</td>
+  <td>Chinese</td>
+  <td>Dutch</td>
+  <td>Korean</td>
+  <td>French</td>
   </tr>
   <tr>
-Dutch
+  <td>English</td>
+  <td>Chinese</td>
+  <td>Dutch</td>
+  <td>Korean</td>
+  <td>French</td>
+  </tr>
+  <tr>
+  <td>English</td>
+  <td>Chinese</td>
+  <td>Dutch</td>
+  <td>Korean</td>
+  <td>French</td>
   </tr>
 </table>
 
