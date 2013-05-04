@@ -10,26 +10,26 @@ Currently localized languages:
 
 <table>
   <tr width=150>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/United-Kingdom.png><p>English</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/China.png><p>Chinese</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Netherlands.png><p>Dutch</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/South-Korea.png><p>Korean</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/France.png><p>French</center></td>
+  <td><center><img src=http://count.ly/images/flags/United-Kingdom.png><p>English</center></td>
+  <td><center><img src=http://count.ly/images/flags/China.png><p>Chinese</center></td>
+  <td><center><img src=http://count.ly/images/flags/Netherlands.png><p>Dutch</center></td>
+  <td><center><img src=http://count.ly/images/flags/South-Korea.png><p>Korean</center></td>
+  <td><center><img src=http://count.ly/images/flags/France.png><p>French</center></td>
 
   </tr>
   <tr width=150>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Italy.png><p>Italian</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Saudi-Arabia.png><p>Arabic</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Japan.png><p>Japanese</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Turkey.png><p>Turkish</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Spain.png><p>Spanish</center></td>
+  <td><center><img src=http://count.ly/images/flags/Italy.png><p>Italian</center></td>
+  <td><center><img src=http://count.ly/images/flags/Saudi-Arabia.png><p>Arabic</center></td>
+  <td><center><img src=http://count.ly/images/flags/Japan.png><p>Japanese</center></td>
+  <td><center><img src=http://count.ly/images/flags/Turkey.png><p>Turkish</center></td>
+  <td><center><img src=http://count.ly/images/flags/Spain.png><p>Spanish</center></td>
 
   </tr>
   <tr width=150>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Germany.png><p>German</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Slovakia.png><p>Slovakian</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Greece.png><p>Greek</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Latvia.png><p>Latvian</center></td>
+  <td><center><img src=http://count.ly/images/flags/Germany.png><p>German</center></td>
+  <td><center><img src=http://count.ly/images/flags/Slovakia.png><p>Slovakian</center></td>
+  <td><center><img src=http://count.ly/images/flags/Greece.png><p>Greek</center></td>
+  <td><center><img src=http://count.ly/images/flags/Latvia.png><p>Latvian</center></td>
   <td>&nbsp;</td>
   </tr>
 </table>
