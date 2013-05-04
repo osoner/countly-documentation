@@ -1,5 +1,7 @@
 #Countly Changelog
 
+This is a list of changes for all current and previous Countly Community Edition versions.
+
 <!-- 
 
 ####13.04
