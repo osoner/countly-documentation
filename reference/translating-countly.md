@@ -19,7 +19,7 @@ Currently localized languages:
   </tr>
   <tr width=150>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Italy.png><p>Italian</center></td>
-  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Saudi-arabia.png><p>Arabic</center></td>
+  <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Saudi-Arabia.png><p>Arabic</center></td>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Japan.png><p>Japanese</center></td>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Turkey.png><p>Turkish</center></td>
   <td><center><img src=http://new.count.ly/images/flags/flags/shiny/48/Spain.png><p>Spanish</center></td>
