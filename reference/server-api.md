@@ -86,6 +86,10 @@ Parameters listed below are mandatory for **every** write API request.
 
 	10 digit UTC timestamp for recording past data.
 
+* `ip_address`
+
+	IP address of the user. By default IP address of the user is detected from the connection but you can send it manually using this parameter. `ip_address` parameter can only be used with the `begin_session` request.
+
 * `events`
 
 	JSON array containing event objects. Each event object can have below properties;
