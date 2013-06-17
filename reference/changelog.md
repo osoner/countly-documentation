@@ -2,35 +2,48 @@
 
 This is a list of changes for all current and previous Countly Community Edition versions.
 
-<!-- 
+####13.06
 
-####13.04
 
-* Added cluster mechanism to api.js in order to fork itself according to the number of CPUs in the server for full utilization.
+* Added session durations view that shows users categorized into predefined
+    session duration buckets. User is categorized into one of 0-10 seconds, 
+    11-30 seconds, 31-60 seconds, 1-3 minutes, 3-10 minutes, 10-30 minutes, 
+    30-60 minutes or > 1 hour according to this session duration (accessible
+    from Engagement > Session durations)
 
-* Added two new API paths, /o/analytics/dashboard and /o/analytics/countries that return ready-to-use metrics for today, 7 days and 30 months.
+* Added resolutions view that shows detailed device resolution data
+    (width and height) for new and all users using two pie charts (accessible
+    from Analytics > Resolutions).
 
-* Added switch to turn off or change session_duration limit of 120 seconds in api.js config (session_duration_limit).
+* Added cluster mechanism to api.js to fork itself according to number of
+    cores in the server in order to increase utilisation. This can also be
+    configured from api/config.js by changing "worker" count.
 
-* Retention view defaults to daily bucket.
+* Added two new API paths, /o/analytics/dashboard and /o/analytics/countries
+    that returns ready-to-use metrics for today, 7 days and 30 days. This API
+    is used by Countly Mobile Apps.
 
-* Retention view, indicate there is no data on the graph area if there is not enough data to draw the graph.
+* Added individual event key deletion to event configuration modal.
 
-* Immediate refresh after view change. All the views will get their data as soon as view change occurs. Each view will only get the data they need in order to render.
+* Improved and optimized update mechanism during dashboard navigation. 
+    Navigation is now much more smoother.
+
+* Added a script (bin/geoip-updater.sh) to fetch and update geoip data. 
+    Running this script will update country and city database from Maxmind
+    database.
+
+* Various performance and visual improvements to Events view.
+  
+* Added switch to turn off or change session_duration limit of 120 seconds
+    in api/config.js (session_duration_limit).
+
+* Added host configuration to both app.js and api.js configuration files
+    (/frontend/express/config.js and /api/config.js) to make it possible to 
+    run dashboard and application on different servers (defaults to localhost)
 
 * Events view, segmentations shown on the bar graph are limited by 15. The rest is shown in the table below.
 
-* Events view, segmentations in the combobox are sorted alphabetically.
 
-* Events view, individual event keys can be deleted from the event configuration popup.
-
-* Added expire_online_after flag to api.js configuration. This configuration extends the expiry duration of online user counts.
-
-* Added host configuration to both app.js and api.js configuration, defaults to "localhost".
-
-* Added script (bin/geoip-updater.sh) to automatically download latest geoip data files from MaxMind and process them according to geoip-lite module requirements. After running this script you need to restart master api.js process.
-
---> 
 
 ####12.12
 
