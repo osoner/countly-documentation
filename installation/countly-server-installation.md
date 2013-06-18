@@ -1,6 +1,6 @@
 # Download & Install Countly 
 
-This document explains how to install Countly server version 12.08, 12.09, 12.12 and 13.04
+This document explains how to install Countly server version 12.08, 12.09, 12.12 and 13.06
 
 <center>
 <p><a class="sign-in" href="http://sf.net/projects/countly">Download Countly Community Edition</a></p>
