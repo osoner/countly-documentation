@@ -54,6 +54,13 @@ var menu = [
             { link:"blackberry-webworks", name:"Blackberry WebWorks SDK" },
             { link:"windows-phone", name:"Windows Phone SDK" }
         ]
+    },
+    {
+        name:"Upgrade",
+        label:"upgrade",
+        items:[
+            { link:"countly-server-upgrade", name:"Countly Server" }
+        ]
     }
 ];
 
