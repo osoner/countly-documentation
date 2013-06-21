@@ -18,10 +18,10 @@ In the future we'll provide [Amazon Machine Images](https://aws.amazon.com/amis)
 We **strongly** suggest you use the automated installation scripts given in Countly package.
 
 ##What are the system requirements?
-We develop, test and use Countly on Linux (specifically, Ubuntu). A decent Linux machine can handle several hundreds (if not thousands) requests per second coming from mobile devices. If your application is not Angry Birds or Draw Something, you can use a single server for all your hardware requirements. Countly runs happily on a virtualized hardware, too.
+We develop, test and use Countly on Ubuntu (for Community Edition) and Red Hat Enterprise Linux (for Enterprise Edition). A decent Linux machine can handle several hundreds (if not thousands) requests per second coming from mobile devices. If your application is not Angry Birds or Draw Something, you can use a single server for all your hardware requirements. Countly runs happily on a virtualized hardware, too.
 
 ##What's the minimum Ubuntu server requirement?
-We develop and test County on Ubuntu 10.04, 11.04, 11.10 and 12.04. Countly depends on modest software and a recent version of MongoDB, Node.js and nginx. Therefore it shouldn't be a problem if you have these packages in your Linux distribution (e.g Fedora, OpenSUSE, etc), however, you need to install them by hand.
+We develop and test County on Ubuntu 10.04, 11.04, 11.10 and 12.04 (x32 or x86). Countly depends on modest software and a recent version of MongoDB, Node.js and nginx. Therefore it shouldn't be a problem if you have these packages in your Linux distribution (e.g Fedora, OpenSUSE, etc), however, you need to install them by hand.
 
 ##Which hosting provider do you suggest?
 
@@ -50,6 +50,15 @@ Username that you are using while installing Countly is very important especiall
 
 ##Do I need a mail server?
 Starting from version 12.06, Countly needs an MTA to send emails to the user created by admin. MTA can be any SMTP server (e.g Postfix, Exim or Sendmail) that's installed on your server, or you can use remote SMTP and let another server handle the mail sending process. By default, Countly automated installer will use Sendmail, however you can change the installation script so it installs Postfix or Exim.
+
+##In installed Countly on an Amazon AWS but I cannot reach dashboard
+By default, Amazon doesn't allow you reach port 80. You should allow incoming conections to port 80 
+from the security group while creating your Amazon instance.
+
+##Is it possible to run dashboard and database on different servers to increase security?
+Yes. Starting from v13.06, we added a server parameter to both app.js and api.js 
+configuration files (/frontend/express/config.js and /api/config.js) to make it 
+possible to run dashboard and application on different servers (defaults to localhost).
 
 ##Is it possible to use Apache mod_proxy instead of Nignx?
 
