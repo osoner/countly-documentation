@@ -41,6 +41,12 @@ your previous applications,follow the steps below:
 4. Find the id of the application that you want to modify 
 5. Execute the update like this: `db.apps.update({id: "ID_YOU_GOT_FROM_PREVIOUS_STEP"},{"$set": {"app_key": "NEW_APP_KEY"}});`
 
+## How do I make Countly use all cores in my server? 
+
+Starting from v13.06, we added cluster mechanism to api.js to fork 
+itself according to number of cores in the server in order to increase utilisation. 
+This can also be configured from api/config.js by changing "worker" count.
+
 ##How can I test my new translations and where do I put my files?
 Under countly/frontend/express/public/localization there are three folders;
 
