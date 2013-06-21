@@ -7,7 +7,9 @@
 * [Download Countly client libraries (SDKS) in source code](/resources/source/download-sdk)
 
 ##How much time does it take to install Countly?
-If your server has all the requirements, then it takes approximately 5-15 minutes to install Countly and start collecting data from devices. Follow the instructions in the [Server Installation Manual](http://support.count.ly/kb/web-installation). Note that installation and configuration does not need any developer skills but only a **dedicated** server for this purpose.
+If your server has all the requirements, then it takes approximately 5-15 minutes 
+to install Countly and start collecting data from devices. 
+Follow the instructions in the [Server Installation Manual](/resources/installation/countly-server-installation). Note that installation and configuration does not need any developer skills but only a **dedicated** server for this purpose.
 
 In the future we'll provide [Amazon Machine Images](https://aws.amazon.com/amis) with Countly preinstalled, so you'll be up and running in a few minutes of time. You can also deploy these images on your own cloud/premises and run on a hypervisor to have a better control.
 
