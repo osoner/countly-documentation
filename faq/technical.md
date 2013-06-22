@@ -49,12 +49,11 @@ This can also be configured from api/config.js by changing "worker" count.
 
 ## Are there any limits on data collected? 
 
-In some cases we limit the data sent to make Countly perform better and handle absurd conditions: 
+Both yes and no. In some cases we limit the data sent to make Countly perform better and handle absurd conditions: 
 
-1. There are no limits on CPU or RAM of the server (all Editions)
-2. There are no limits on number of accounts, applications or users (all Editions)
-3. There are no hard limits for segmentation keys or values, but in case the values get too big, it may not be recorded at all (e.g > 5000 chars)
-4. There's a limit of 100 characters for event keys.
+1. There's a limit of 100 characters for event keys.
+2. There are no limits on CPU or RAM of the server
+3. There are no limits on number of accounts, applications or users
 
 
 ##How can I test my new translations and where do I put my files?
