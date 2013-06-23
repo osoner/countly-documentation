@@ -206,7 +206,8 @@ Parameters listed below are mandatory for **every** read API request.
 
 ###B. v2
 
-**v2** version of the api is designed to return ready-to-use metrics for today, last 7 days and last 30 days. **v2** API is currently only available from Countly Cloud. There are two available paths;
+**v2** version of the api is designed to return ready-to-use metrics for today, 
+last 7 days and last 30 days. There are two available paths;
 
 ####/o/analytics/dashboard
 
