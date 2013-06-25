@@ -6,21 +6,22 @@ and other devices that can send events over HTTP. This page is intended to provi
 where we are heading as we work on enhancements, fixes and improvements on major functional 
 and architectural parts. This list is by no means complete – your suggestions will help shape the list.
 
-### Priority #1 items (2013 Q2-Q3)
+### Priority #1 items
 
 * iPhone & Android applications
 * User analytics
 * Exporting and importing data
-* Funnels & detailed segmentation
+* Funnels
+* Detailed segmentation
 
-### Priority #2 items (2013 Q3-Q4)
+### Priority #2 items
 
 * Amazon AMI images for instant deployment
 * Feedback reporting
 * Push notifications
 * Mobile database as a service
 
-### Less priority items (2013 Q4)
+### Less priority items
 
 * Sending reports
 * Bug/exception reporting
