@@ -56,7 +56,7 @@ var menu = [
         ]
     },
     {
-        name:"Upgrade",
+        name:"Upgrading",
         label:"upgrade",
         items:[
             { link:"countly-server-upgrade", name:"Countly Server" }
