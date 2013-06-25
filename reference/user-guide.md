@@ -1,5 +1,9 @@
 #Countly User's Guide
 
+## Changelog 
+* Version 1.0: Initial release
+* Version 1.1: Add features representing v13.06 
+
 Countly is an innovative, real-time mobile analytics software, focusing on ease of use, extensibility and feature richness. Countly includes a server and a mobile component, both of which you can freely use in your own company for your applications under license terms.
 
 The server part of Countly consists of a service that runs on port 80, allowing the system administrator connect to the user interface and get insights about applications tracked. The mobile part consists of SDKs for different smart phones and tables. In order to start tracking your application, you need to do the following:
@@ -10,7 +14,10 @@ The server part of Countly consists of a service that runs on port 80, allowing 
 4. Put the application in your mobile phone and test.
 5. If tests are successful, send the application to Appstore/Google Play.
 
-Should you feel brave enough, (4) is optional. After all steps are completed, you are ready to get insights from Countly dashboard. Installation of the server and using SDK is explained in relevant manuals, and won’t be covered here again.
+Should you feel brave enough, (4) is optional. After all steps are completed, 
+you are ready to get insights from Countly dashboard. 
+Installation of the server and using SDK is explained in documents you can find on the navigation bar on the left, 
+and won’t be covered here again.
 
 # 1. Dashboard overview
 
@@ -23,7 +30,7 @@ Countly provides a dashboard for a quick glimpse of the latest status of applica
 
 ![mobil_analiz_ekran.png](http://support.count.ly/help/assets/b7bcf5da8110be5eaede2ced7b31968ee4fca7da/mobil_analiz_ekran_normal.png)
 
-**Note:** Real-time panel is not present in open source version.
+**Note:** Real-time panel is only available for Cloud and Enterprise Edition users.
 
 Let’s have a look at each component.
 
@@ -37,7 +44,7 @@ At the bottom of this part, you can see the current user, together with a link t
 
 Have you ever wondered how many users are currently using your application at that moment? This tiny but powerful widget shows you exactly this: online users and newcoming online users. There's also a live, flowing chart on the right hand side that shows the status of your users - you can easily have an insight about whether number of online & new users are increasing and decreasing.
 
-**Note:** This feature is only available for Countly Cloud users.
+**Note:** This feature is only available for Cloud and Enterprise Edition users.
 
 ## Quick date selector
 
@@ -97,6 +104,10 @@ In this menu, you’ll see 3 main blocks of device information. On the top, ther
 
 This menu will give you the answer to the question "*Which smartphone types do my users have?*"
 
+## Resolutions 
+This menu shows two pie charts - total users and new users in terms of device resolution (width x height). This screen is
+important as it gives insights about which resolutions are used most so you can focus on these screen types.
+
 ## Application versions
 This page shows different versions of applications, in case they are defined. A stacked chart shows totel sessions and new users. The table under the chart shows total sessions, total users and new users, respectively for each application version. This menu will give you the answer to the question *"How do my application versions compare?"*
 
@@ -123,6 +134,15 @@ User loyalty shows how many users started a specific number of sessions. Table s
 Session frequency shows how often do you see your mobile users open your application. It can be used to calculate the trend - or how often your application is used during a given period of time. The session frequency graph is very straightforward - here you’ll see a breakdown of number of sessions and corresponding number and percentage of users for each group. Most of the time, you’ll see that many users will be accumulated in “1st session” and “2nd session” row.
 
 This menu will give you the answer to the question *"How often do you see your users open your app?"*
+
+## Session durations 
+
+Session Durations view shows users categorized into predefined session duration buckets. 
+In this view, your users are categorized into one of 0-10 seconds, 11-30 seconds, 
+31-60 seconds, 1-3 minutes, 3-10 minutes, 10-30 minutes, 30-60 minutes or > 1 hour according to 
+this session duration.
+
+This screen will give you the answer to the question *"How long do my users stay inside my application?"*
 
 # 4. Events
 
