@@ -51,7 +51,7 @@ Username that you are using while installing Countly is very important especiall
 ##Do I need a mail server?
 Starting from version 12.06, Countly needs an MTA to send emails to the user created by admin. MTA can be any SMTP server (e.g Postfix, Exim or Sendmail) that's installed on your server, or you can use remote SMTP and let another server handle the mail sending process. By default, Countly automated installer will use Sendmail, however you can change the installation script so it installs Postfix or Exim.
 
-##In installed Countly on an Amazon AWS but I cannot reach dashboard
+##I installed Countly on an Amazon AWS but I cannot reach dashboard
 By default, Amazon doesn't allow you reach port 80. You should allow incoming conections to port 80 
 from the security group while creating your Amazon instance.
 
@@ -75,4 +75,6 @@ In order to restart Countly, type the following as root:
 
 ##How do I reinstall Countly?
 
-Deleting the `countly` directory, extracting the new package to the same directory and executing `countly.install.sh` should do the trick.
+Deleting the `countly` directory, extracting the new package to the same 
+directory and executing `countly.upgrade.sh` should do the trick. This is explained in
+[Upgrading Countly](http://count.ly/resources/upgrade/countly-server-upgrade) documentation.
