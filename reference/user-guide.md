@@ -125,7 +125,7 @@ This menu will give you the answer to the question "*Which operating systems do 
 
 Retention is condition of keeping your customers. This page shows you active days (e.g days your customer used your application) after first session. On the top right corner, you can have a breakdown of daily, weekly and monthly retention. This is one of the most important metrics for app analytics.
 
-**Note:** User retention module is not present in open source version.
+**Note:** User retention module is not present in Community Edition.
 
 ## User loyalty
 User loyalty shows how many users started a specific number of sessions. Table shows number and percentage of each loyalty group compared with number of sessions (e.g one session, 2 sessions etc). This menu will give you the answer to the question *"How many users started a specific number of sessions?"*
