@@ -1,6 +1,7 @@
 #Countly Features
 
-This page gives a list of current Countly features. This is a live page, and will be updated as more features drop in.
+This page gives a list of current Countly features. This is a live page, and will be updated as more features drop in. 
+For a comparison between Community, Cloud and Enterprise Editions, see [comparison table](/products/editions/compare)
 
 ##1. General features
 
