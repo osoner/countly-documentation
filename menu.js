@@ -18,6 +18,7 @@ var menu = [
             { link:"changelog", name:"Changelog" },
             { link:"roadmap", name:"Roadmap" },       
             { link:"server-api", name:"Server API" },
+            { link:"revenue-analytics", name:"Revenue analytics"},
             { link:"contributing-to-countly", name:"Contributing to Countly" },
             { link:"contributors", name:"Contributors" },
             { link:"custom-events", name:"Custom events" },
