@@ -10,6 +10,7 @@ Countly, like other open source projects, needs contributors: that's what keeps 
 * Devran Eroğul (Windows Phone SDK)
 * Orkun Şentürk (Windows Phone SDK)
 * Pavel Guganov (Mac OS X SDK)
+* Andrew Krowczyk ([Training videos](http://www.youtube.com/watch?v=WaNme8YS0S0)
 * Craig Mason-Jones (Blackberry 10 cascades SDK)
 * Gabriel Rinaldi (Heroku porting)
 * Christian Sullivan (Titanium iOS SDK)
