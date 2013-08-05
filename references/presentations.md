@@ -2,6 +2,9 @@
 
 Here you'll find various presentations about installing, configuring and using Countly. 
 
+
+<iframe src="http://www.slideshare.net/countly/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
 <iframe src="http://www.slideshare.net/slideshow/embed_code/20285243?rel=0" 
 width="344" height="292" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" 
 style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:0px" 
