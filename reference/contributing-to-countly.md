@@ -15,7 +15,7 @@ Let’s dive into what it needs and means to be a Countly contributor.
 ### Download & fork our source code
 
 We use Git, a distributed version control system and Github, a service that gives 
-open source developers several tools to keep their source code. All our code resides in GitHub servers, 
+open source developers several tools to keep their source code. [All public code resides in GitHub servers](http://github.com/Countly), 
 and Github provides wonderful ways to read, fork, examine and contribute code back to the project. 
 One of the first things you should be doing is learning Git commands - 
 this is really a good start towards being a part of Countly and other Git-supported open source projects.
@@ -30,13 +30,13 @@ guide anything would help.
 
 ### Follow Countly on Twitter & Facebook
 
-We are always updating our latest status on Twitter and Facebook, and use these two social environments 
-a lot. A quick and dirty way to ask a question to Countly developers is to contact them via Twitter.
+We are always updating our latest status on [Twitter](http://twitter.com/gocountly) and [Facebook](http://www.facebook.com/Countly), 
+and use these two social environments a lot. A quick and dirty way to ask a question to Countly developers is to contact them via Twitter.
 
 ### Write an SDK for your platform
 
 Currently Countly is written for iOS, Android, Blackberry, Windows Phone and Mac OS X platforms. 
-Contributors have provided SDKs for Titanium SDK and Unity 3D. Basically, if a device is connected 
+Contributors have provided many SDKs for different development environments including Titanium SDK, Unity 3D and Corona. Basically, if a device is connected 
 to internet, you can get analytics data easily with a simple SDK. Examples include but not limited 
 to Smart TVs, set top boxes, mobile apps using HTML5/Javascript, desktop 
 operating systems, in-car entertainment systems, IP security cameras - anything that is able to 
