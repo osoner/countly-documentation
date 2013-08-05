@@ -26,7 +26,10 @@ Even our [documentation is on Github](https://github.com/osoner/countly-document
 All open source projects needs a lot of documentation and Countly is not an exception. 
 You can either contact us directly for a review/doc, or start writing your own. 
 You don’t have to be a linguistic expert - anything, from reviews to an in-depth installation 
-guide anything would help.
+guide anything would help. 
+
+A good example would be wonderful [Countly video tutorial series](http://blog.magrocket.com/setting-up-countly-analytics/) 
+by Andrew of Magrocket.
 
 ### Follow Countly on Twitter & Facebook
 
