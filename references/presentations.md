@@ -22,4 +22,4 @@ title="Partnership with Countly" target="_blank"><p>Partnership with Countly</p>
 </div>
 
 
-</center
+</center>
