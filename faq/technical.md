@@ -20,6 +20,15 @@ If your mobile application cannot send an event information (mainly due to the f
 
 ##How many users can a Countly server handle?
 In our tests, a decent server can handle 700 events per second, which is roughly 20.000 concurrent mobile users. See [implementation and configuration scenarios](/resources/reference/implementation-scenarios) for potential installation alternatives.
+However, do not take this number as a reference as it depends on network load, configuration, disk speed, RAM size and 
+many other criteria.
+
+##Are there any video tutorials for installing and configuring Countly? 
+Andrew Krowczyk of [Magrocket](http://magrocket.com) prepared wonderful videos for Countly: 
+
+* [Installing and setting up Countly](http://www.youtube.com/watch?v=WaNme8YS0S0)
+* [Configuring Countly](http://www.youtube.com/watch?v=EwBf99Btntw)
+* [Custom events](http://www.youtube.com/watch?v=BpwSuXtvjsI)
 
 ##Where should I put my Countly start code for Android? 
 In as much activity as you can, preferably in each activity.
