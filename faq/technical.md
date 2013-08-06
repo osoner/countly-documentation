@@ -72,7 +72,7 @@ Both yes and no. In some cases we limit the data sent to make Countly perform be
 
 This way existing members will be deleted so that you will be redirected to the setup screen again.
 
-##How do I debug api.js when requesting http://servername/i URL?
+##How do I debug api.js when requesting servername/i URL?
 
 You can use a module like [node-inspector](https://github.com/node-inspector/node-inspector) if you want to go into detail.
 
