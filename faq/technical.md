@@ -64,6 +64,13 @@ Both yes and no. In some cases we limit the data sent to make Countly perform be
 2. There are no limits on CPU or RAM of the server
 3. There are no limits on number of accounts, applications or users
 
+## How do I remove all users and define a new user? 
+
+1. Login to your server terminal with root credentials
+2. Type "mongo countly"
+3. Type "db.members.drop()"
+
+This way existing members will be deleted so that you will be redirected to the setup screen again.
 
 ##How can I test my new translations and where do I put my files?
 Under countly/frontend/express/public/localization there are three folders;
