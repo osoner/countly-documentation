@@ -15,8 +15,9 @@ For a comparison between Community, Cloud and Enterprise Editions, see [comparis
 
 * Custom event tracking with advanced segmentation
 * General dashboard view showing top platform, carrier, users
-* Number of online users widget (cloud version)
-* Retention calculation & cohorts (cloud version)
+* Number of online users widget (*)
+* Retention calculation & cohorts (*)
+* Revenue analytics (*)
 * Country-based tracking
 * User tracking
 * User loyalty tracking
@@ -30,6 +31,7 @@ For a comparison between Community, Cloud and Enterprise Editions, see [comparis
 * Advanced user management to add administrators or users to an application or create global administrators to manage everything
 * Offline tracking
 
+(*) Available in Cloud Edition and Enterprise Edition
 ##3. Device SDKs
 
 Client libraries (SDKs) are available for mobile devices (iOS, Android, Blackberry, Windows Phone), desktop applications and Flash (e.g Facebook) pages. See [a list of SDKs](/resources/source/download-sdk) supported by Countly and community.
