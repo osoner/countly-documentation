@@ -46,6 +46,7 @@ Client libraries (SDKs) are available for mobile devices (iOS, Android, Blackber
 ##5. Installation & technical
 
 * Straightforward installation on a Linux server
-* Tested on Ubuntu 10.04, 10.10, 11.04, 11.10 and 12.04
+* Tested on Ubuntu's latest versions (Community Edition)
+* Tested on Red Hat (Enterprise Edition)
 * Features MongoDB, Node.js and Nginx
 * Installable on [Heroku](https://github.com/gabrielrinaldi/Countly-Frontend-Heroku) - Community contribution by Gabriel Rinaldi
