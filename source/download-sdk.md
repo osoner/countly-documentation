@@ -5,8 +5,8 @@ Below you can see a list of mobile, Facebook, AS3 and desktop SDKs.
 
 #### Countly Supported SDKs 
 
-* [Android SDK](https://github.com/Countly/countly-sdk-android) and [install guide](/resources/sdk-installation/android)
-* [iOS SDK](https://github.com/Countly/countly-sdk-ios) and [install guide](/resources/sdk-installation/ios)
+* [Android SDK](https://github.com/Countly/countly-sdk-android) and [install guide](/resources/installation/android)
+* [iOS SDK](https://github.com/Countly/countly-sdk-ios) and [install guide](/resources/installation/ios)
 
 #### Community Supported SDKs
 
