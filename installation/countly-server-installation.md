@@ -57,11 +57,11 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
 
 **Nginx** web server is used as a proxy to our API and Dashboard nodes. We will configure and start our nginx server after completing all package installations.
 
-## 6. Install Node.js and NPM
+## 6. Install Node.js
 
-<pre class="prettyprint lang-sh">sudo apt-get install nodejs npm</pre>
+<pre class="prettyprint lang-sh">sudo apt-get install nodejs</pre>
 
-**Node.js** is our primary web server that our API and Dashboard nodes run on. **NPM** is the package manager for Node.js.
+**Node.js** is our primary web server that our API and Dashboard nodes run on. 
 
 ## 7. Install MongoDB
 
