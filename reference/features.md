@@ -31,7 +31,8 @@ For a comparison between Community, Cloud and Enterprise Editions, see [comparis
 * Advanced user management to add administrators or users to an application or create global administrators to manage everything
 * Offline tracking
 
-(*) Available in Cloud Edition and Enterprise Edition
+(*) Available in [Cloud Edition](/products/editions/cloud) and [Enterprise Edition](/products/editions/enterprise)
+
 ##3. Device SDKs
 
 Client libraries (SDKs) are available for mobile devices (iOS, Android, Blackberry, Windows Phone), desktop applications and Flash (e.g Facebook) pages. See [a list of SDKs](/resources/source/download-sdk) supported by Countly and community.
