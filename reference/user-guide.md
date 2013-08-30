@@ -14,7 +14,7 @@ The server part of Countly consists of a service that runs on port 80, allowing 
 4. Put the application in your mobile phone and test.
 5. If tests are successful, send the application to Appstore/Google Play.
 
-Should you feel brave enough, (4) is optional. After all steps are completed, 
+After all steps are completed, 
 you are ready to get insights from Countly dashboard. 
 Installation of the server and using SDK is explained in documents you can find on the navigation bar on the left, 
 and won’t be covered here again.
@@ -27,6 +27,7 @@ Countly provides a dashboard for a quick glimpse of the latest status of applica
 2. Real-time panel
 3. Quick date selector
 4. Analytics panel
+5. (Optional) [Revenue analytics panel](http://count.ly/resources/reference/revenue-analytics)
 
 ![mobil_analiz_ekran.png](http://support.count.ly/help/assets/b7bcf5da8110be5eaede2ced7b31968ee4fca7da/mobil_analiz_ekran_normal.png)
 
