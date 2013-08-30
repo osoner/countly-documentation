@@ -33,6 +33,9 @@ Countly provides a dashboard for a quick glimpse of the latest status of applica
 
 **Note:** Real-time panel is only available for Cloud and Enterprise Edition users.
 
+Revenue analytics panel is shown (seen) only a custom event is selected for revenue analytics. For more information 
+about how to define a custom in-app purchase event, see [Revenue Analytics documentation](http://count.ly/resources/reference/revenue-analytics)
+
 Let’s have a look at each component.
 
 ## Navigation bar
@@ -122,6 +125,8 @@ This menu will give you the answer to the question "*Which operating systems do 
 
 # 3. Engagement view
 
+This menu includes submenu items related with user engagement (retention, loyalty, session frequency and session duration).
+
 ## User retention
 
 Retention is condition of keeping your customers. This page shows you active days (e.g days your customer used your application) after first session. On the top right corner, you can have a breakdown of daily, weekly and monthly retention. This is one of the most important metrics for app analytics.
@@ -147,13 +152,19 @@ This screen will give you the answer to the question *"How long do my users stay
 
 # 4. Events
 
-Countly benefits from custom events. It helps product developers and user experience specialists get an understanding how how their application performs, by sending data from inside the application and analysing this information. Just like other information retrieved, custom events are true real-time with Countly, so you don't have to wait for hours for visualization to appear in dashboard.
+Countly benefits from custom events. It helps product developers and user experience specialists get 
+an understanding how how their application performs, by sending data from inside the application and 
+analysing this information. Just like other information retrieved, custom events are true real-time with Countly, 
+so you don't have to wait for hours for visualization to appear in dashboard.
 
 
 ![Screen_Shot_2012-11-13_at_22.26.47.png](http://support.count.ly/help/assets/54bbadcb38ad918501ed3be6c650b74b8e27d49c/Screen_Shot_2012-11-13_at_22.26.47_normal.png)
 
 
-For more information about how to capture and send events to Countly server, see [Custom Events](/resources/reference/custom-events) article. For references and hands-on examples, please see [SDK methods for custom events](http://support.count.ly/kb/reference/sdk-methods-for-custom-events).
+For more information about how to capture and send events to Countly server, 
+see [Custom Events](/resources/reference/custom-events) article. 
+For references and hands-on examples, please 
+see [SDK methods for custom events](http://support.count.ly/kb/reference/sdk-methods-for-custom-events).
 
 
 # 5. Managing applications & users
@@ -169,11 +180,11 @@ Applications can be managed by global users (more information later). To add an 
 3. Enter your application name, category, the time zone you are in, and application icon.
 4. Click “Add Application”
 
-You’ll be given an app key which is unique to that application. This key should be written in the SDK code snippet which in turn will be embedded in your application - please see SDK integration guides on how to do it.
+You’ll be given an app key which is unique to that application. This key should be written in the SDK code snippet which in turn will be embedded in your application - please see [SDK integration guides](http://count.ly/resources/source/download-sdk) on how to do it.
 
+Alternatively, you can enter your IAP Event Key in order to collect IAP revenues and see it immediately in your dashboard.
 
 ![Screen_Shot_2012-11-13_at_22.28.51.png](http://support.count.ly/help/assets/9a89bee8ea3d8af1c3821dfa2dd7230540c4d142/Screen_Shot_2012-11-13_at_22.28.51_normal.png)
-
 
 If you want to delete an application, simply click on “Delete”. There may be some cases where you only want to delete all data associated with an application, but keep the application keys and other information. In this case, use “Clear data” to remove all incoming data from this application and start fresh.
 
@@ -191,6 +202,17 @@ Different types of users have different authorization levels:
 ![Screen_Shot_2012-11-13_at_22.29.46.png](http://support.count.ly/help/assets/e719848587efe27463996a97f4817a5f7895c901/Screen_Shot_2012-11-13_at_22.29.46_normal.png)
 
 In order to add a user, you must be global admin. Click “Create a new user” to have a drop-down menu where you can enter user information and credentials. Fill in the details here and click “Create user”. Editing a user is straightforward - go to the user row, and click. You’ll be presented with an editable form.
+
+## Changing interface language 
+
+Countly is available in several languages, including German, Spanish, Turkish, Italian, Dutch, Russian, Chinese and more. You can 
+easily switch language from the menu on left hand side. Click on your name and then language button, there you'll see 
+available languages. 
+
+If you want to help with localization in your own language, go to 
+[Transifex Countly project page](https://www.transifex.com/projects/p/countly/) and register yourself 
+to be a contributor to make Countly better localized.
+
 
 ## Getting help
 
