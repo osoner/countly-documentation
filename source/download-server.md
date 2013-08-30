@@ -17,4 +17,5 @@ match for seasoned developers. Out of the box, we provide necessary user friendl
 so making additions is a snap. You’ll love all the <b>modern, open source, developer friendly
 technologies and frameworks</b> we use to build Countly.
 
-<p><a class="sign-in" href="http://sf.net/projects/countly">Download Countly Community Edition Source Code Now</a></p>
+<p><a class="sign-in" href="http://sf.net/projects/countly">Download Countly Community Edition (stable)</a></p>
+<p><a class="sign-in" href="http://github.com/countly/countly-server">Download latest source code</a></p>
