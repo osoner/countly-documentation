@@ -13,16 +13,18 @@ Countly, like other open source projects, needs contributors: that's what keeps 
 ### Client libraries ###
 
 * Tom Myles (Windows Phone SDK)
-* Devran Eroğul (Windows Phone SDK)
-* Orkun Şentürk (Windows Phone SDK)
-* Pavel Guganov (Mac OS X SDK)
+* Devran Eroğul / Orkun Şentürk (Windows Phone SDK)
+* Pavel Guganov ([Mac OS X SDK](https://github.com/mrballoon/countly-sdk-osx))
 * Craig Mason-Jones (Blackberry 10 cascades SDK)
-* Ufuk Şahin - Panteon Technologies (Unity3D SDK)
-* Brandon Trebitowski (Corona SDK)
-* Christian Sullivan (Titanium iOS SDK)
+* Ufuk Şahin - Panteon Technologies ([Unity3D SDK](https://github.com/Countly/countly-sdk-unity))
+* Brandon Trebitowski ([Corona SDK](https://github.com/brandontreb/Countly-Corona))
+* Christian Sullivan ([Titanium iOS SDK](https://github.com/euforic/Titanium-Count.ly))
+* Shiva Kumars ([Titanium Android SDK](https://github.com/shivakumars/Titanium-Android-Count.ly))
 * Recep Kırmızı (Blackberry WebWorks SDK)
 
 ### Localizations ###
+
+Localization efforts are carried out on [Transifex](https://www.transifex.com/projects/p/countly/)
 
 * Walter Zheng (various fixes to Countly server, Chinese localization)
 * Damien Laureaux (French localization)
@@ -37,4 +39,4 @@ Countly, like other open source projects, needs contributors: that's what keeps 
 ### Miscellaneous ### 
 
 * Andrew Krowczyk ([Training videos](http://www.youtube.com/watch?v=WaNme8YS0S0))
-* Gabriel Rinaldi (Heroku porting)
+* Gabriel Rinaldi ([Heroku porting](https://github.com/gabrielrinaldi/Countly-Frontend-Heroku))
