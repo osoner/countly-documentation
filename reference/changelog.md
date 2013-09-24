@@ -2,6 +2,21 @@
 
 This is a list of changes for all current and previous Countly Community Edition versions.
 
+####13.09
+
+* Optimizations and fixes to the API for viewing the data on Countly for iPhone
+
+* Optimization for begin_session and end_session handling especially to prevent
+    a new session creation on Android when the user changes the screen orientation.
+    end_session is ignored if begin_session is received less than ~10 secs ago.
+
+* Added "Yesterday" to available date buttons
+
+* Fixed platform versions visualization of Mac
+
+* General UI optimizations
+
+
 ####13.06
 
 
