@@ -1,6 +1,6 @@
 # Download & Install Countly 
 
-This document explains how to install Countly server version 12.08, 12.09, 12.12 and 13.06
+This document explains how to install Countly server.
 
 <center>
 <p><a class="sign-in" href="http://sf.net/projects/countly">Download Countly Community Edition</a></p>
@@ -8,7 +8,7 @@ This document explains how to install Countly server version 12.08, 12.09, 12.12
 
 ### Requirements
 
-Countly can be installed on Ubuntu Linux, running 10.04 LTS, 11.10 or 12.04 LTS. We highly recommend that you use
+Countly can be installed on Ubuntu Linux, running 10.04 LTS, 11.10, 12.04 and 13.04. We highly recommend that you use
 a dedicated VPS for Countly. By default, Node.js (the web server Countly needs) need to run on port 80, so make sure 
 this port is free, i.e Apache is not running. 
 
