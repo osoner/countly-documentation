@@ -6,6 +6,8 @@ Countly is an innovative, real-time, open source mobile analytics application. I
 ##How does Countly differ from other analytics tools?
 We believe that analytics software should be simple, incomplex and should just show the necessary information, using eye catching design. Moreover, some companies may want to own their data, requiring to have analytics servers in their own premises. Since Countly is open source, you can install Countly service on your server farm.
 
+Moreover, Countly has a <a href=/products/features/mobile-first>mobile application</a>, so you do not have to use a browser to check latest status of your app.
+
 ##How does Countly work?
 Countly tracks mobile applications and mobile devices using a small plugin (SDK) that you integrate in your application in under 10 minutes. After you submit your application to relevant application store, Countly immediately starts collecting data.
 
@@ -32,6 +34,9 @@ which are capable of sending HTTP requests in general. For a list of SDKs, [see 
 ##How can I use Countly for desktop analytics? 
 There's a [community-contributed Mac OSX SDK](https://github.com/mrballoon/countly-sdk-osx). Use this to track 
 your Mac OS X applications.
+
+##Can I check my stats from my iPhone? 
+Yes, we have a mobile app, available from iTunes. For more information and download links, <a href=/products/features/mobile-first>see here.</a>
 
 ##Can I use one account for several applications?
 Yes, one account can control more than one application. 
