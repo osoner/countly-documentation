@@ -10,6 +10,7 @@ For a comparison between Community, Cloud and Enterprise Editions, see [comparis
 * Impressive user interface
 * Goal-oriented user experience
 * In-app guidance & help
+* <a href=/products/features/mobile-first>Mobile app for iPhone available</a>
 
 ##2. Mobile analytics features
 
