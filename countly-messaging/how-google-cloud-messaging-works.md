@@ -10,3 +10,11 @@ GCM allows 3rd party servers (e.g Countly) to send messages to a specific applic
 Countly Messaging makes a connection between GCM cloud and Countly server so a message is delivered to the device using HTTP. In order for an application to receive a message, this application doesn't have to be running (unlike in Apple Push Notifications Service). If a message is received, Android wakes up the application by sending an Intent broadcast event. If the application is set up with proper broadcast receiver and permissions, it'll wake up (or directly receive) this message and can run a function if properly set up. 
 
 Developer of the application is responsible from what to do with the raw data that is received by the application. Different use cases include showing a notification to the user, displaying a custom interface, trigger downloading data or updating configuration of the application. 
+
+## Setting up SDK and client ## 
+
+Configuring your SDK and client takes a few steps. Completing these steps is a requirement before using Countly Messaging.
+
+* First, setup and configure Google Play Services SDK by downloading it. For more information about this step, see 
+[Setup Google Play Services SDK](http://developer.android.com/google/play-services/setup.html).
+
