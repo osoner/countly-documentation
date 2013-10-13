@@ -1,4 +1,3 @@
-
 ### What's the benefit of Countly Messaging? ###
 
 Countly handles all communication between device and server. This gives you competitive advantage as you do not have 
