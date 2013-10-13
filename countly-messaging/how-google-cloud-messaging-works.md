@@ -1,4 +1,4 @@
-== Google Cloud Messaging == 
+### Google Cloud Messaging ###
 
 Google Cloud Messaging for Android (GCM) is a service that's provided by Google. With this service, you can use a server to send data to any Android device that accepts this information. It's also possible to receive messages from another mobile devices. GCM cloud service handles every aspects of sending, handling and re-sending the message from server/device to the receiving party. 
 
