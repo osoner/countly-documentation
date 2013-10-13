@@ -1,1 +1,17 @@
-..
+
+== Google Cloud Messaging == 
+
+Google Cloud Messaging for Android (GCM) is a service that's provided by Google. With this service, you can use a server to send data to any Android device that accepts this information. It's also possible to receive messages from another mobile devices. GCM cloud service handles every aspects of sending, handling and re-sending the message from server/device to the receiving party. 
+
+GCM allows 3rd party servers (e.g Countly) to send messages to a specific application. Here, you can control which device(s) and app(s) will get the message. It 
+
+Here are the primary characteristics of Google Cloud Messaging (GCM):
+
+It allows 3rd-party application servers to send messages to their Android applications. Particulary Countly Messaging makes a connection between GCM cloud and Countly server so a message is delivered to the device using HTTP. Google also provides Cloud Connection Server (CCS) based on XMPP. CCS protocol is currently not supported by Countly.
+
+In order for an application to receive a message, this application doesn't have to be running (unlike in Apple Push Notifications Service). If a message is received, Android wakes up the application by sending an Intent broadcast event. If the application is set up with proper broadcast receiver and permissions, it'll 
+
+An Android application on an Android device doesn't need to be running to receive messages. The system will wake up the Android application via Intent broadcast when the message arrives, as long as the application is set up with the proper broadcast receiver and permissions.
+It does not provide any built-in user interface or other handling for message data. GCM simply passes raw message data received straight to the Android application, which has full control of how to handle it. For example, the application might post a notification, display a custom user interface, or silently sync data.
+It requires devices running Android 2.2 or higher that also have the Google Play Store application installed, or or an emulator running Android 2.2 with Google APIs. However, you are not limited to deploying your Android applications through Google Play Store.
+It uses an existing connection for Google services. For pre-3.0 devices, this requires users to set up their Google account on their mobile devices. A Google account is not a requirement on devices running Android 4.0.4 or higher.
