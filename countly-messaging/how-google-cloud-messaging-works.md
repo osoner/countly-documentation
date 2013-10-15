@@ -11,7 +11,7 @@ Countly Messaging makes a connection between GCM cloud and Countly server so a m
 
 Developer of the application is responsible from what to do with the raw data that is received by the application. Different use cases include showing a notification to the user, displaying a custom interface, trigger downloading data or updating configuration of the application. 
 
-## Setting up SDK and client ## 
+## Setting up SDK and client ##
 
 Configuring your SDK and client takes a few steps. Completing these steps is a requirement before using Countly Messaging.
 
