@@ -64,6 +64,13 @@ Both yes and no. In some cases we limit the data sent to make Countly perform be
 2. There are no limits on CPU or RAM of the server
 3. There are no limits on number of accounts, applications or users
 
+## Help! MongoDB eats 100% CPU.
+
+If you collect events having a lot of unique segmentation values (e.g almost unique to every user, for example), 
+this will cause collection sizes to be "extreme", causing locks all over the place.
+
+some events that take parameters which value is almost unique per user
+
 ## How do I remove all users and define a new user? 
 
 1. Login to your server terminal with root credentials
