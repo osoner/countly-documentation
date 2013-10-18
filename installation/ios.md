@@ -31,11 +31,11 @@ It should finally look like this:
 }
 </pre>
 
-Note: If your project uses automatic reference counting (ARC), you should disable it for the sources `Countly_OpenUDID.m` and `Countly.m`:
+Note: If your project uses automatic reference counting (ARC), you should disable it for the sources `Countly_OpenUDID.m`, `Countly.m` and `CountlyDB.m`:
 
 1. Select your project
 2. Select the Build Phases tab
 3. Open Compile Sources tab
-4. Double click `Countly.m` and `Countly_OpenUDID.m` and add `-fno-objc-arc` flag
+4. Double click `Countly.m`, `Countly_OpenUDID.m`, `CountlyDB.m` and add `-fno-objc-arc` flag
 
 Note: Before upgrading to a new SDK, do not forget to remove the existing, older SDK from your project.
