@@ -1,8 +1,8 @@
 #Countly Drill
 
-Countly now offers something called Countly Drill to Countly Cloud and Enterprise customers. This is a bit of a game changer and we hope to clarify how to use Countly Drill in this quick reference. Before we start to get more into the magic, we need to make sure you understand all about Countly custom events (which has been around for more than a year) since Countly Drill is all about custom events.
+Countly now offers something called Countly Drill to [Countly Cloud](http://count.ly/products/editions/cloud) and [Enterprise](http://count.ly/products/editions/enterprise) customers. This is a bit of a game changer and we hope to clarify how to use Countly Drill in this quick reference. Before we start to get more into the magic, we need to make sure you understand all about Countly custom events (which has been around for more than a year) since Countly Drill is all about custom events.
 
-In the custom event system Countly lets you keep track of your own metrics in a pretty simple way by sending data like this;
+In the [custom event system](http://count.ly/resources/reference/custom-events) Countly lets you keep track of your own metrics in a pretty simple way by sending event data like this;
 
 	{
 		"key": "Ride",
@@ -47,7 +47,7 @@ Without further due we want to show you some of these highlights using real repo
 
 	<img src="http://count.ly/images/resources/drill/drill_bookmark.png" />
 
-We could have added thousand more items to this list but we believe you are ready to see it for yourself at this point :) Go on and sign up for a free account on Countly Cloud and experience the magic!
+We could have added thousand more items to this list but we believe you are ready to see it for yourself at this point :) Go on and [sign up for a free account](http://count.ly/) on Countly Cloud and experience the magic!
 
 
 
