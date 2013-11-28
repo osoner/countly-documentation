@@ -15,6 +15,7 @@ var menu = [
         items:[
             { link:"features", name:"Features" },
             { link:"user-guide", name:"User guide" },
+			{ link:"drill", name:"Countly Drill"},
             { link:"revenue-analytics", name:"Revenue analytics"},
             { link:"server-api", name:"Server API" },
             { link:"custom-events", name:"Custom events" },
