@@ -19,9 +19,7 @@ Our lightweight SDK works asynchronously and doesn't block any function calls in
 If your mobile application cannot send an event information (mainly due to the fact that device is not connected to internet, user is on a plane or underground), then this information is stored in memory. As soon as the connection is established, it's sent to the server.
 
 ##How many users can a Countly server handle?
-In our tests, a decent server can handle 700 events per second, which is roughly 20.000 concurrent mobile users. See [implementation and configuration scenarios](/resources/reference/implementation-scenarios) for potential installation alternatives.
-However, do not take this number as a reference as it depends on network load, configuration, disk speed, RAM size and 
-many other criteria.
+In our tests, a high configuration server can handle 700 events per second, which is roughly 20.000 concurrent mobile users. See [implementation and configuration scenarios](/resources/reference/implementation-scenarios) for potential installation alternatives. However, do not take this number as a reference as it depends on network load, configuration, disk speed, RAM size andmany other criteria.
 
 ##Are there any video tutorials for installing and configuring Countly? 
 Andrew Krowczyk of [Magrocket](http://magrocket.com) prepared wonderful videos for Countly: 
@@ -82,6 +80,13 @@ This way existing members will be deleted so that you will be redirected to the 
 ##How do I debug api.js when requesting servername/i URL?
 
 You can use a module like [node-inspector](https://github.com/node-inspector/node-inspector) if you want to go into detail.
+
+
+##How do you calculate online users? 
+
+Online users are unique users that we received a begin_session for and has an ongoing session 
+extended by session_duration and/or event requests. We consider the user as offline as soon 
+as we receive an end_session request for him or 60 seconds passed since last request received.
 
 ##How can I test my new translations and where do I put my files?
 Under countly/frontend/express/public/localization there are three folders;
