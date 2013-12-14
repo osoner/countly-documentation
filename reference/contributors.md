@@ -6,6 +6,7 @@ Countly, like other open source projects, needs contributors: that's what keeps 
 
 ### Feature additions & fixes ###
 
+* Nesim Tunç (various fixes and contributions to Countly iOS SDK)
 * Dmitriy Kazimirov (iPhone 5 / iPad 5 identifiers)
 * Andrej Mihajlov (various fixes to Countly iOS SDK)
 * Christopher Bess ([Debian 7.1 installation script](https://gist.github.com/cbess/6221635))
