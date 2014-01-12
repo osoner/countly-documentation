@@ -20,7 +20,7 @@ Here we are tracking **Ride** event for our made up app that has segmentation pr
 
 We normally get a report that looks like below for our **Ride** event. Which is a great way to see a high level overview of how things are going and performing single level segmentations on our data.
 
-<img src="http://count.ly/images/resources/drill/drill_events.png" />
+<img src="https://raw2.github.com/osoner/countly-documentation/master/images/drill/drill_events.png" />
 
 Using Countly Drill we will be able to;
 
@@ -33,19 +33,19 @@ Without further due we want to show you some of these highlights using real repo
 
 1. Show **Ride** events with `"Car Type": "Luxury"`
 	
-	<img src="http://count.ly/images/resources/drill/drill_basic.png" />
+	<img src="https://raw2.github.com/osoner/countly-documentation/master/images/drill/drill_basic.png" />
 
 2. Show **Ride** events with `"Car Type": "Luxury"` that has a `Duration` higher than 20 and show the report segmented by `Coupon`. And please show this on a pie chart
 
-	<img src="http://count.ly/images/resources/drill/drill_pie.png" />
+	<img src="https://raw2.github.com/osoner/countly-documentation/master/images/drill/drill_pie.png" />
 
 3. Show **Ride** events with `"Car Type": "Luxury"` or `"Car Type": "Basic"` that has a `"Coupon Used": "CLYROCKS"`  and show the report segmented by `Country`
 
-	<img src="http://count.ly/images/resources/drill/drill_country.png" />
+	<img src="https://raw2.github.com/osoner/countly-documentation/master/images/drill/drill_country.png" />
 
 4. This is all great but will I define these filters every time I need to see a report? Nope, we have bookmarks
 
-	<img src="http://count.ly/images/resources/drill/drill_bookmark.png" />
+	<img src="https://raw2.github.com/osoner/countly-documentation/master/images/drill/drill_bookmark.png" />
 
 We could have added thousand more items to this list but we believe you are ready to see it for yourself at this point :) Go on and [sign up for a free account](http://count.ly/) on Countly Cloud and experience the magic!
 

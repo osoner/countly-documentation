@@ -10,15 +10,15 @@ Some fun facts before we start;
 
 First time you open the funnels view you will be greeted by a funnel creation form. You can define the steps of your funnel by either inputting the custom event key you plan to send in the future or selecting one from your existing events. A funnel needs to have at least 2 steps.
 
-<img src="https://count.ly/images/resources/funnels/create.png" />
+<img src="https://raw2.github.com/osoner/countly-documentation/master/images/funnels/create.png" />
 
 After saving your funnel you will immediately be taken to your beautiful reporting view. At the top you can see how many users of your application entered this funnel by performing the first step event. Right next to it there is the success rate and number of users who have completed this funnel by performing every single event.
 
-<img src="https://count.ly/images/resources/funnels/funnel.png" />
+<img src="https://raw2.github.com/osoner/countly-documentation/master/images/funnels/funnel.png" />
 
 Let's get to the best part. You can filter the first step event by your event's segmentation properties as well as user properties (metrics) like platform, device, country etc. thanks to [Countly Drill](https://count.ly/resources/reference/drill).
 
-<img src="https://count.ly/images/resources/funnels/funnel_filter.png" />
+<img src="https://raw2.github.com/osoner/countly-documentation/master/images/funnels/funnel_filter.png" />
 
 Most common use cases of funnel analytics are;
 

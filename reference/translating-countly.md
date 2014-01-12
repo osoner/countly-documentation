@@ -15,26 +15,26 @@ Currently localized languages:
 
 <table>
   <tr width=150>
-  <td><center><img src=http://count.ly/images/flags/United-Kingdom.png><p>English</center></td>
-  <td><center><img src=http://count.ly/images/flags/China.png><p>Chinese</center></td>
-  <td><center><img src=http://count.ly/images/flags/Netherlands.png><p>Dutch</center></td>
-  <td><center><img src=http://count.ly/images/flags/South-Korea.png><p>Korean</center></td>
-  <td><center><img src=http://count.ly/images/flags/France.png><p>French</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/United-Kingdom.png><p>English</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/China.png><p>Chinese</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Netherlands.png><p>Dutch</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/South-Korea.png><p>Korean</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/France.png><p>French</center></td>
 
   </tr>
   <tr width=150>
-  <td><center><img src=http://count.ly/images/flags/Italy.png><p>Italian</center></td>
-  <td><center><img src=http://count.ly/images/flags/Saudi-Arabia.png><p>Arabic</center></td>
-  <td><center><img src=http://count.ly/images/flags/Japan.png><p>Japanese</center></td>
-  <td><center><img src=http://count.ly/images/flags/Turkey.png><p>Turkish</center></td>
-  <td><center><img src=http://count.ly/images/flags/Spain.png><p>Spanish</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Italy.png><p>Italian</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Saudi-Arabia.png><p>Arabic</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Japan.png><p>Japanese</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Turkey.png><p>Turkish</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Spain.png><p>Spanish</center></td>
 
   </tr>
   <tr width=150>
-  <td><center><img src=http://count.ly/images/flags/Germany.png><p>German</center></td>
-  <td><center><img src=http://count.ly/images/flags/Slovakia.png><p>Slovakian</center></td>
-  <td><center><img src=http://count.ly/images/flags/Greece.png><p>Greek</center></td>
-  <td><center><img src=http://count.ly/images/flags/Latvia.png><p>Latvian</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Germany.png><p>German</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Slovakia.png><p>Slovakian</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Greece.png><p>Greek</center></td>
+  <td><center><img src=https://raw2.github.com/osoner/countly-documentation/master/images/translating-countly/Latvia.png><p>Latvian</center></td>
   <td>&nbsp;</td>
   </tr>
 </table>

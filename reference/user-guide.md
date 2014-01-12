@@ -29,7 +29,7 @@ Countly provides a dashboard for a quick glimpse of the latest status of applica
 4. Analytics panel
 5. (Optional) [Revenue analytics panel](http://count.ly/resources/reference/revenue-analytics)
 
-![mobil_analiz_ekran.png](http://support.count.ly/help/assets/b7bcf5da8110be5eaede2ced7b31968ee4fca7da/mobil_analiz_ekran_normal.png)
+![mobil_analiz_ekran.png](https://raw2.github.com/osoner/countly-documentation/master/images/user-guide/mobil_analiz_ekran_normal.png)
 
 **Note:** Real-time panel is only available for Cloud and Enterprise Edition users.
 
@@ -59,7 +59,7 @@ On the top right of the screen you’ll see a list of days. Here, you can either
 This panel gives a brief overview of what’s happening on the dashboard. On the top, there are 6 widgets. When clicked, the chart under these widgets are automatically refreshed to show relevant data group.
 
 
-![mobil_analiz_ekran3.png](http://support.count.ly/help/assets/0ee015265d979ad5893fba47ec937f957bf036fb/mobil_analiz_ekran3_normal.png)
+![mobil_analiz_ekran3.png](https://raw2.github.com/osoner/countly-documentation/master/images/user-guide/mobil_analiz_ekran3_normal.png)
 
 
 Each widget shows the following:
@@ -89,7 +89,7 @@ Under black widgets, there’s a colorful world map showing which countries use 
 Countly’s dashboard provides a quick analysis and gives a glimpse of how your application is performing. It’s mostly useful for marketing people with an intent to understand what’s going on immediately.
 
 
-![mobil_analiz_ekran2.png](http://support.count.ly/help/assets/b66e5bf9ef96110866ce07b5a783196eee179fa3/mobil_analiz_ekran2_normal.png)
+![mobil_analiz_ekran2.png](https://raw2.github.com/osoner/countly-documentation/master/images/user-guide/mobil_analiz_ekran2_normal.png)
 
 
 Navigation pane on the left gives more, detailed information about users, sessions, countries, carriers and more. Below we’ll have a look at each menu item.
@@ -158,7 +158,7 @@ analysing this information. Just like other information retrieved, custom events
 so you don't have to wait for hours for visualization to appear in dashboard.
 
 
-![Screen_Shot_2012-11-13_at_22.26.47.png](http://support.count.ly/help/assets/54bbadcb38ad918501ed3be6c650b74b8e27d49c/Screen_Shot_2012-11-13_at_22.26.47_normal.png)
+![Screen_Shot_2012-11-13_at_22.26.47.png](https://raw2.github.com/osoner/countly-documentation/master/images/user-guide/Screen_Shot_2012-11-13_at_22.26.47_normal.png)
 
 
 For more information about how to capture and send events to Countly server, 
@@ -184,7 +184,7 @@ You’ll be given an app key which is unique to that application. This key shoul
 
 Alternatively, you can enter your IAP Event Key in order to collect IAP revenues and see it immediately in your dashboard.
 
-![Screen_Shot_2012-11-13_at_22.28.51.png](http://support.count.ly/help/assets/9a89bee8ea3d8af1c3821dfa2dd7230540c4d142/Screen_Shot_2012-11-13_at_22.28.51_normal.png)
+![Screen_Shot_2012-11-13_at_22.28.51.png](https://raw2.github.com/osoner/countly-documentation/master/images/user-guide/Screen_Shot_2012-11-13_at_22.28.51_normal.png)
 
 If you want to delete an application, simply click on “Delete”. There may be some cases where you only want to delete all data associated with an application, but keep the application keys and other information. In this case, use “Clear data” to remove all incoming data from this application and start fresh.
 
@@ -199,7 +199,7 @@ Different types of users have different authorization levels:
 3. **User** is basically at the bottom of the hieararchy, and can only see the dashboard, without having the ability to manage other applications and users.
 
 
-![Screen_Shot_2012-11-13_at_22.29.46.png](http://support.count.ly/help/assets/e719848587efe27463996a97f4817a5f7895c901/Screen_Shot_2012-11-13_at_22.29.46_normal.png)
+![Screen_Shot_2012-11-13_at_22.29.46.png](https://raw2.github.com/osoner/countly-documentation/master/images/user-guide/Screen_Shot_2012-11-13_at_22.29.46_normal.png)
 
 In order to add a user, you must be global admin. Click “Create a new user” to have a drop-down menu where you can enter user information and credentials. Fill in the details here and click “Create user”. Editing a user is straightforward - go to the user row, and click. You’ll be presented with an editable form.
 

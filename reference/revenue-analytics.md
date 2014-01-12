@@ -16,16 +16,16 @@ In order to make revenue analytics simple to use as always, we made the process 
 
 You can type in the iap event key while creating or editing your app;
 
-<img src="http://count.ly/images/resources/revenue/app_edit.png" />
+<img src="https://raw2.github.com/osoner/countly-documentation/master/images/revenue/app_edit.png" />
 
 Or if you already have data for the event you plan to use as the iap event, you can choose it from event management popup;
 
-<img src="http://count.ly/images/resources/revenue/events_edit.png" />
+<img src="https://raw2.github.com/osoner/countly-documentation/master/images/revenue/events_edit.png" />
 
 ## 2. Sit back and enjoy
 
 Well, first step was pretty much all you had to do in order to use revenue analytics. Payment data will be retrieved from the `sum` property of your selected event. We will record the paying user counts based on the users who perform your **iap-event**.
 
-<img src="http://count.ly/images/resources/revenue/iap_data.png" />
+<img src="https://raw2.github.com/osoner/countly-documentation/master/images/revenue/iap_data.png" />
 
-<img src="http://count.ly/images/resources/revenue/dashboard_data.png" />
+<img src="https://raw2.github.com/osoner/countly-documentation/master/images/revenue/dashboard_data.png" />
