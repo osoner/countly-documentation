@@ -8,8 +8,7 @@ There are 3 editions:
 * [Enterprise Edition](/products/editions/enterprise): Countly Enterprise Edition is a full-featured, open source, customizable, white-labeled, on-premise mobile analytics stack including Countly server, more than 10 SDKs, client API libraries, extensive documentation with support.
 
 ##What are the licensing terms for Countly Community Edition?
-Please see the [licensing file](https://github.com/Countly/countly-server/blob/master/LICENCE) that comes with installation.
-
+Please see the [licensing file](https://github.com/Countly/countly-server/blob/master/LICENCE) that comes with installation. Due to Countly trademark and logo, Community Edition can only be used in an organization internally for internal (e.g in-house developed) application tracking purposes. 
 
 ## I want to resell Countly and provide value for my ecosystem, how can I do that? 
 Countly offers its customers top-notch, proven technology solving mobile business challenges, 
