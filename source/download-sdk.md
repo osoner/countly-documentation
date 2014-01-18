@@ -3,7 +3,7 @@
 Countly has several SDKs to choose from. Some of them are supported by Countly, and others are contributed by community.
 Below you can see a list of mobile, Facebook, AS3 and desktop SDKs.
 
-#### Countly Supported SDKs 
+#### Officially Supported SDKs 
 
 * [Android SDK](https://github.com/Countly/countly-sdk-android) and [install guide](/resources/installation/android)
 * [iOS / Mac OSX SDK](https://github.com/Countly/countly-sdk-ios) and [install guide](/resources/installation/ios)
