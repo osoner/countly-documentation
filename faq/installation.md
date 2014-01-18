@@ -2,7 +2,7 @@
 
 ##Where can I download Countly?
 
-* [Download Countly server in source code](http://github.com/Countly/countly-server)
+* [Download latest Countly server in source code](http://github.com/Countly/countly-server) (includes everything required to run Countly on your on server, e.g dashboard, server and DB).
 * [Download Countly in zip file from Sourceforge](http://sf.net/projects/countly)
 * [Download Countly client libraries (SDKS) in source code](/resources/source/download-sdk)
 
