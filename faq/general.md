@@ -32,8 +32,7 @@ Android, iOS, Windows Phone and Blackberry. However, Countly can also track desk
 which are capable of sending HTTP requests in general. For a list of SDKs, [see this page](/resources/source/download-sdk).
 
 ##How can I use Countly for desktop analytics? 
-There's a [community-contributed Mac OSX SDK](https://github.com/mrballoon/countly-sdk-osx). Use this to track 
-your Mac OS X applications.
+Countly uses [same SDK for iOS and Mac OS X](https://github.com/Countly/countly-sdk-ios). Use this SDK to track your Mac OS X applications.
 
 ##Can I check my stats from my iPhone? 
 Yes, we have a mobile app, available from iTunes. For more information and download links, <a href=/products/features/mobile-first>see here.</a>
