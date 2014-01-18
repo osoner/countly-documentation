@@ -18,7 +18,10 @@ In the future we'll provide [Amazon Machine Images](https://aws.amazon.com/amis)
 We **strongly** suggest you use the automated installation scripts given in Countly package.
 
 ##What are the system requirements?
-We develop, test and use Countly on Ubuntu (for Community Edition) and Red Hat Enterprise Linux (for Enterprise Edition). A decent Linux machine can handle several hundreds (if not thousands) requests per second coming from mobile devices. If your application is not Angry Birds or Draw Something, you can use a single server for all your hardware requirements. Countly runs happily on a virtualized hardware, too.
+We develop, test and use Countly on Ubuntu (for Community Edition) and Red Hat Enterprise Linux (for Enterprise Edition). A decent Linux machine can handle several hundreds (if not thousands) requests per second coming from mobile devices.
+
+For very large traffic (several billion calls per month), we provide [Countly Enteprise Edition](https://count.ly/products/editions/enterprise), which scales horizontally as your business grow.
+
 
 ##What's the minimum Ubuntu server requirement?
 We develop and test County on Ubuntu 10.04, 11.04, 11.10 and 12.04 (x32 or x86). Countly depends on modest software and a recent version of MongoDB, Node.js and nginx. Therefore it shouldn't be a problem if you have these packages in your Linux distribution (e.g Fedora, OpenSUSE, etc), however, you need to install them by hand.
