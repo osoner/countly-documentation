@@ -1,10 +1,12 @@
 #Increasing performance for high traffic mobile applications
 
-Countly can scale up to several million users for a single server, and it'll work happily out of the box. Most of the time, a small server can handle several hundred users online and you'll only need to deal with the uptime and general server maintainance.
+Countly Community Edition can serve up to several million users on a single server, and it'll work happily out of the box. Most of the time, a small server can handle several hundred users online and you'll only need to deal with the uptime and general server maintainance.
 
-However, sometimes it might be necessary to tweak performance of the underlying system - database and server, in order to make Countly work in high traffic environment. With high traffic, we mean 10-20 million events (hits) on the server, which is quite a big number (congratulations if your mobile app did it this high!)
+However, sometimes it might be necessary to tweak performance of the underlying system - database and server, in order to make Countly work in high traffic environment. With high traffic, we mean a few billion hits on the server per month, which is quite a big number - congratulations if your mobile app did it this high!
 
-Note that this document deals with vertical scalability, rather than sharding and replica sets.
+Countly Enterprise Edition is different in architecture. It can serve tens of billions of hits per month on a scalable infrastructure and is available for big customers. For more information about Enterprise Edition, [see this link](https://count.ly/products/editions/enterprise).
+
+
 
 ## Recommended server configuration
 
