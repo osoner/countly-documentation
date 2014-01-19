@@ -7,7 +7,7 @@ After your install Countly SDK in your application, users of this application st
 We are using [Node.js](http://nodejs.org/) and [MongoDB](http://www.mongodb.org/). Both backend and frontend are completely written in javascript. You can take a look at the [API code](https://github.com/Countly/countly-server/blob/master/api/api.js) which collects data from client SDKs and writes this data to database.
 
 ##How are event and session data sent to Countly?
-As the user opens the application, Countly SDK starts collecting data the way you define. Events and sessions are collected and then sent to Countly (or your) servers using HTTP request every 30 seconds.
+As the user opens the application, Countly SDK starts collecting data the way you define. Events and sessions are collected and then sent to Countly (or your) servers using HTTP request every 60 seconds.
 
 ##Does Countly show my data in real-time?
 All reports and charts are shown in real-time. There are no batch processes running in the background to visualize or collect data, so you don't have to wait for the next process to run.
