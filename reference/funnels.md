@@ -1,8 +1,10 @@
 #Countly Funnels
 
-Funnels are now available to [Countly Cloud](https://count.ly/products/editions/cloud) and [Enterprise](https://count.ly/products/editions/enterprise) users. It is pretty easy to use Countly Funnels but in case you want to read before digging deeper, here is our quick reference. 
+Funnels are available to [Countly Cloud](https://count.ly/products/editions/cloud) and [Enterprise](https://count.ly/products/editions/enterprise) users. It is pretty easy to use Countly Funnels but in case you want to read before digging deeper, here is our quick reference. 
 
-Some fun facts before we start;
+Funnels are used to identify where your user drop off, or where you lose your customer in your application. This way, you can see the rate at which a visitor completes any goals (custom events) in your path.
+
+Some fun facts before we start:
 
 * Countly Funnels are retroactive. You don't need to create your funnel to be able to see the data for a past period.
 * Countly Funnels depend entirely on [custom events](https://count.ly/resources/reference/custom-events), and a little bit on [Countly Drill](https://count.ly/resources/reference/drill).
