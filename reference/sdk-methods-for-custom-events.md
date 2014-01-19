@@ -1,6 +1,6 @@
 #SDK Methods for Custom Events
 
-With the release of v12.08, we have introduced a custom event system in Countly. In this article we will go over the functionality by showing the usage of the methods in the Countly SDKs.
+In this article we will go over the functionality by showing the usage of the methods in the Countly SDKs.
 
 In all the examples below we will be recording a **purchase** event. Here is a quick summary what information each usage will provide us;
 
