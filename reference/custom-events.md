@@ -1,6 +1,6 @@
 #Custom Events
 
-As you all know Countly 12.08 release includes long-awaited custom events feature. This means a whole new world of tracking so we wanted to explain a litle what events can do for you.
+This document explains how to use custom events, a powerful feature that you can use to send any type of data to a Countly server.
 
 ####Basics
 
