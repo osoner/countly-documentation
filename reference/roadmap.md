@@ -8,27 +8,28 @@ and architectural parts. This list is by no means complete – your suggestions 
 
 ### Priority #1 items
 
+* Push notifications
 * iPhone & Android applications
 * User analytics
-* Exporting and importing data
-* Funnels
-* Detailed segmentation
+* Importing data
 
 ### Priority #2 items
 
 * Amazon AMI images for instant deployment
 * Feedback reporting
-* Push notifications
-* Mobile database as a service
+* Bug/exception reporting
 
 ### Less priority items
 
+* Mobile database as a service
 * Sending reports
-* Bug/exception reporting
 * Plugin support - adding features without modifying core source code
 
 ##Completed items
 
+* Exporting data
+* Countly Funnels
+* Countly Drill (Detailed segmentation)
 * Windows Phone support
 * HTML5 support (Titanium Appcelerator)
 * Blackberry support
