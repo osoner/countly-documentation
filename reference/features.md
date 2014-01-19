@@ -14,11 +14,13 @@ For a comparison between Community, Cloud and Enterprise Editions, see [comparis
 
 ##2. Mobile analytics features
 
-* Custom event tracking with advanced segmentation
-* General dashboard view showing top platform, carrier, users
+* [Countly Drill](https://count.ly/resources/reference/drill) (*)
+* [Countly Funnels](https://count.ly/resources/reference/funnels) (*)
 * Number of online users widget (*)
 * Retention calculation & cohorts (*)
 * Revenue analytics (*)
+* Custom event tracking with segmentation
+* General dashboard view showing top platform, carrier, users
 * Country-based tracking
 * User tracking
 * User loyalty tracking
