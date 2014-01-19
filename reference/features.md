@@ -30,9 +30,9 @@ For a comparison between Community, Cloud and Enterprise Editions, see [comparis
 * Carrier tracking
 * Application version tracking
 * Platform and platform version tracking
-* Sending events using period of 30 seconds
 * Advanced user management to add administrators or users to an application or create global administrators to manage everything
 * Offline tracking
+* Data export feature for 3rd party visualization/BI apps
 
 (*) Available in [Cloud Edition](/products/editions/cloud) and [Enterprise Edition](/products/editions/enterprise)
 
