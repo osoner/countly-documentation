@@ -53,9 +53,7 @@ var menu = [
         items:[
             { link:"countly-server-installation", name:"Countly Server" },
             { link:"android", name:"Android SDK" },
-            { link:"ios", name:"iOS SDK" },
-            { link:"blackberry-webworks", name:"Blackberry WebWorks SDK" },
-            { link:"windows-phone", name:"Windows Phone SDK" }
+            { link:"ios", name:"iOS / Mac OS X SDK" }
         ]
     },
     {
