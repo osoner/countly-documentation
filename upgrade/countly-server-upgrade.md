@@ -1,6 +1,6 @@
 # Upgrading Countly
 
-All Countly Server packages come with an upgrade script ([/bin/countly.upgrade.sh](https://github.com/Countly/countly-server/blob/master/bin/countly.upgrade.sh)) that makes it easy to upgrade from the previous version. 
+All Countly Server packages come with an upgrade script ([/bin/countly.upgrade.sh](https://github.com/Countly/countly-server/blob/master/bin/countly.upgrade.sh)) that makes it easy to upgrade from the previous version. Before upgrading, make sure you [downloaded the new Countly package](http://sf.net/projects/countly).
 
 Upgrading to the latest Countly Community Edition does not involve any complicated operations 
 so you can alternatively do it manually by following these 3 steps:
