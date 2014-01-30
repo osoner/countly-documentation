@@ -1,14 +1,12 @@
 # Contributing to Countly
 
-Many people want to dive into open source software, but do not know where to start. 
+Many people want to dive into open source software, but don't know where to start. 
 Most of the time they have the energy and enthusiasm, but do not have a clue about how to behave, 
 whom to talk, what to read in order to begin with their contribution.
 
 Countly is a good example of an open source project - it has a ticketing system, 
 a searchable knowledgebase, nice developers to connect to, and most importantly, 
-a global vision with a public roadmap. Therefore joining doesn't require high barriers and 
-high profile. Even if you are just a Twitter user, documentation writer or just spotted an issue, 
-Countly is one of the best projects to contribute to.
+a global vision with a public roadmap. Therefore joining doesn't require high barriers or a high profile. Small things like spreading the word on Twitter, writing a brief tutorial or reporting a bug are all valuable contributions. 
 
 Let’s dive into what it needs and means to be a Countly contributor.
 
@@ -38,8 +36,8 @@ and use these two social environments a lot. A quick and dirty way to ask a ques
 
 ### Write an SDK for your platform
 
-Currently Countly is written for iOS, Android, Blackberry, Windows Phone and Mac OS X platforms. 
-Contributors have provided many SDKs for different development environments including Titanium SDK, Unity 3D and Corona. Basically, if a device is connected 
+Currently Countly SDKs are available for iOS, Android, Blackberry, Windows Phone and Mac OS X platforms. 
+Contributors have provided many SDKs for different development environments including Titanium, Unity 3D, Phonegap, Icenium and Corona. Basically, if a device is connected 
 to internet, you can get analytics data easily with a simple SDK. Examples include but not limited 
 to Smart TVs, set top boxes, mobile apps using HTML5/Javascript, desktop 
 operating systems, in-car entertainment systems, IP security cameras - anything that is able to 

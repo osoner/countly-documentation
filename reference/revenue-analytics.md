@@ -1,6 +1,6 @@
 #Revenue analytics
 
-Countly now has revenue analytics for tracking your in-app-purchase revenues. Information you will get from revenue analytics will be;
+Countly offers revenue analytics to [Countly Cloud](https://count.ly/products/editions/cloud) and [Enterprise](https://count.ly/products/editions/enterprise) users for tracking in-app-purchase data in real time. Information you will get from revenue analytics will be;
 
 - Total revenue 
 - Avg. revenue per user
@@ -29,3 +29,5 @@ Well, first step was pretty much all you had to do in order to use revenue analy
 <img src="https://raw2.github.com/osoner/countly-documentation/master/images/revenue/iap_data.png" />
 
 <img src="https://raw2.github.com/osoner/countly-documentation/master/images/revenue/dashboard_data.png" />
+
+If you are not familiar with Countly custom events, it is a great idea to check out [the documentation](https://count.ly/resources/reference/custom-events) now since revenue analytics depends on custom events.

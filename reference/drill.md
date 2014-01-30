@@ -1,6 +1,6 @@
 #Countly Drill
 
-Countly now offers something called Countly Drill to [Countly Cloud](http://count.ly/products/editions/cloud) and [Enterprise](http://count.ly/products/editions/enterprise) customers. This is a bit of a game changer and we hope to clarify how to use Countly Drill in this quick reference. Before we start to get more into the magic, we need to make sure you understand all about Countly custom events (which has been around for more than a year) since Countly Drill is all about custom events.
+Countly Drill is available to [Countly Cloud](http://count.ly/products/editions/cloud) and [Enterprise](http://count.ly/products/editions/enterprise) users. This is a bit of a game changer and we hope to clarify how to use Countly Drill in this quick reference. Before we start to get more into the magic, we need to make sure you understand all about Countly custom events (which has been around for more than a year) since Countly Drill is all about custom events.
 
 In the [custom event system](http://count.ly/resources/reference/custom-events) Countly lets you keep track of your own metrics in a pretty simple way by sending event data like this;
 
@@ -24,8 +24,8 @@ We normally get a report that looks like below for our **Ride** event. Which is 
 
 Using Countly Drill we will be able to;
 
-* Perform advanced segmentations on our data using **AND**, **OR** and **BY** filters to our segmentation properties as well as user properties such as **Device**, **App Version**, **Platform**, **Platform Version**, **Session Count**, **Session Duration**, **First Session**, **Last Session**, **Country**, **City** and **Carrier**
-* View data on a **line**, **pie** or **bar** chart, whicever makes more sense to us
+* Perform advanced segmentations on our data by applying **AND**, **OR** and **BY** filters to our segmentation properties as well as user properties such as **Device**, **App Version**, **Platform**, **Platform Version**, **Session Count**, **Session Duration**, **First Session**, **Last Session**, **Country**, **City** and **Carrier**
+* View data on a **line**, **pie** or **bar** chart, whicever makes more for the current data
 * Change the time bucket displayed on the chart and table to **hourly**, **daily**, **weekly** or **monthly**
 * View how many times the event occured as well as how many users performed this event and an average (times/users)
 

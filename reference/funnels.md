@@ -2,7 +2,7 @@
 
 Funnels are available to [Countly Cloud](https://count.ly/products/editions/cloud) and [Enterprise](https://count.ly/products/editions/enterprise) users. It is pretty easy to use Countly Funnels but in case you want to read before digging deeper, here is our quick reference. 
 
-Funnels are used to identify where your user drop off, or where you lose your customer in your application. This way, you can see the rate at which a visitor completes any goals (custom events) in your path.
+Funnels are used to track the goal completion rates of a step by step path inside your application. These goals (steps) are defined as [custom events](https://count.ly/resources/reference/custom-events) in Countly and you don't need any extra/new API calls if you have already been using custom events.
 
 Some fun facts before we start:
 

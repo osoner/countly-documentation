@@ -47,3 +47,9 @@ Segmentation makes it possible to categorize/label an event in order to answer a
 	}
 
 An event key can have unlimited number of segmentation key-values and all these segmentation keys will be available from your dashboard the moment you first use them inside your application.
+
+Pretty simple right? Here are some further documentation that you might find useful in order to get the best out of custom events;
+
+- [SDK methods for custom events](https://count.ly/resources/reference/sdk-methods-for-custom-events): Function calls (for various platforms) you will need in order to send event data to Countly Server
+- [Countly Drill](https://count.ly/resources/reference/drill): A very very very advanced query tool for your custom events
+- [Countly Funnels](https://count.ly/resources/reference/funnels): Track paths and goal completions inside your app using custom events
