@@ -25,9 +25,9 @@ We normally get a report that looks like below for our **Ride** event. Which is 
 Using Countly Drill we will be able to;
 
 * Perform advanced segmentations on our data by applying **AND**, **OR** and **BY** filters to our segmentation properties as well as user properties such as **Device**, **App Version**, **Platform**, **Platform Version**, **Session Count**, **Session Duration**, **First Session**, **Last Session**, **Country**, **City** and **Carrier**
-* View data on a **line**, **pie** or **bar** chart, whicever makes more for the current data
+* View data on a **line**, **pie** or **bar** chart, whichever makes more sense for the current data
 * Change the time bucket displayed on the chart and table to **hourly**, **daily**, **weekly** or **monthly**
-* View how many times the event occured as well as how many users performed this event and an average (times/users)
+* View how many times the event occurred as well as how many users performed this event and an average (times/users)
 
 Without further due we want to show you some of these highlights using real reports for our custom event **Ride**;
 
