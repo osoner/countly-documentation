@@ -43,7 +43,7 @@ If your project uses automatic reference counting (ARC), you should disable it f
 
 **Note**: Before upgrading to a new SDK, do not forget to remove the existing, older SDK from your project.
 
-### Using CocoaOods ###
+### Using CocoaPods ###
 
 Countly iOS SDK benefits from Cocoapods. For more information, go to [Countly CocoaPods Github directory](https://github.com/CocoaPods/Specs/tree/master/Countly)
 
