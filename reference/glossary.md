@@ -36,9 +36,7 @@ In this glossary you'll find explanations to abbreviations and other terms you s
 	- 50-99
 	- 100-499
 	- Greater than 500
-
 * **Funnel** A Countly feature that's used to track the goal completion rates of a step by step path inside your application. 
-
 * **Drill** A Countly feature that's used to perform advanced segmentation to your apps. 
  
 ####Events
