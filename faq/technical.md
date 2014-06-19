@@ -59,8 +59,9 @@ This can also be configured from api/config.js by changing "worker" count.
 Both yes and no. In some cases we limit the data sent to make Countly perform better and handle absurd conditions: 
 
 1. There's a limit of 100 characters for event keys.
-2. There are no limits on CPU or RAM of the server
-3. There are no limits on number of accounts, applications or users
+2. There's a limit of 100 segmentations per event and each of those segmentation can have 1000 unique values at most.
+3. There are no limits on CPU or RAM of the server
+4. There are no limits on number of accounts, applications or users
 
 ## Help! MongoDB eats 100% CPU.
 
