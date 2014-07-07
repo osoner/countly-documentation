@@ -24,6 +24,8 @@ cd bin
 bash countly.install.sh
 </pre>
 
+Now open your browser and go to http://YOUR_SERVER_IP. Follow instructions to create your user and application.
+
 If you are brave enough, go on :-)
 
 ## 1. First things first
