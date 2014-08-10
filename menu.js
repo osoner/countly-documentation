@@ -27,7 +27,7 @@ var menu = [
             { link:"contributors", name:"Contributors" },
             { link:"changelog", name:"Changelog" },
             { link:"roadmap", name:"Roadmap" },       
-          //  { link:"open-source-components", name:"Open source components" },
+            { link:"open-source-components", name:"Open source components" },
             { link:"translating-countly", name:"Translating Countly" },
             { link:"glossary", name:"Glossary" },
             { link:"useful-links", name:"Useful links" }            
