@@ -2,7 +2,7 @@
 
 This table shows a list of all open source software used to develop Countly Mobile Analytics Platform.
 
-#Standalone components
+###Standalone components
 
 | **Software** | **Type** | **License** | **URL** |
 | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ This table shows a list of all open source software used to develop Countly Mobi
 | Flot | UI library | MIT | [http://flotcharts.org](http://flotcharts.org) |
 | Ejs | Javascript library | MIT | [http://embeddedjs.com](http://embeddedjs.com) |
 
-#Jquery & related modules
+###Jquery & related modules
 
 | **Software** | **Type** | **License** | **URL** |
 | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ This table shows a list of all open source software used to develop Countly Mobi
 | Peity | Jquery plugin | MIT | [http://benpickles.github.io/peity](http://benpickles.github.io/peity) |
 | Jquery-i18n | Jquery plugin | MIT | [https://code.google.com/p/jquery-i18n-properties/](https://code.google.com/p/jquery-i18n-properties/) |
 
-#Node.js & related modules
+###Node.js & related modules
 
 | **Software** | **Type** | **License** | **URL** |
 | --- | --- | --- | --- |
