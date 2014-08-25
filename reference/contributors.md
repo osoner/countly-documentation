@@ -1,6 +1,6 @@
 #Contributors
 
-Countly, like other open source projects, needs contributors: that's what keeps Countly growing and evolving. Here's a list of contributors to Countly in every sense. If you think you should be in this list, send us a note and we'll add you.
+Countly, like other open source projects, grows with contributors: that's what keeps Countly growing and evolving. Here's a list of contributors to Countly in every sense. If you think you should be in this list, send us a note and we'll add you.
 
 (In no order)
 
@@ -10,6 +10,9 @@ Countly, like other open source projects, needs contributors: that's what keeps 
 * Dmitriy Kazimirov (iPhone 5 / iPad 5 identifiers)
 * Andrej Mihajlov (various fixes to Countly iOS SDK)
 * Christopher Bess ([Debian 7.1 installation script](https://gist.github.com/cbess/6221635))
+* Erkan Yıldız (Countly iOS app)
+* Artem Salpagarov (Countly Android app)
+* Jason Boehle (lots of improvements, bug fixes to Android SDK)
 
 ### Client libraries ###
 
