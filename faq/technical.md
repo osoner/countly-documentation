@@ -7,7 +7,7 @@ After your install Countly SDK in your application, users of this application st
 We are using [Node.js](http://nodejs.org/) and [MongoDB](http://www.mongodb.org/). Both backend and frontend are completely written in javascript. You can take a look at the [API code](https://github.com/Countly/countly-server/blob/master/api/api.js) which collects data from client SDKs and writes this data to database.
 
 ##How are event and session data sent to Countly?
-As the user opens the application, Countly SDK starts collecting data the way you define. Events and sessions are collected and then sent to Countly (or your) servers using HTTP request every 60 seconds.
+As the user opens the application, Countly SDK starts collecting data the way you define. Events and sessions are collected and then sent to Countly (or your) servers using HTTP srequest every 60 seconds.
 
 ##Does Countly show my data in real-time?
 All reports and charts are shown in real-time. There are no batch processes running in the background to visualize or collect data, so you don't have to wait for the next process to run.
@@ -82,12 +82,25 @@ This way existing members will be deleted so that you will be redirected to the 
 
 You can use a module like [node-inspector](https://github.com/node-inspector/node-inspector) if you want to go into detail.
 
-
 ##How do you calculate online users? 
 
 Online users are unique users that we received a begin_session for and has an ongoing session 
 extended by session_duration and/or event requests. We consider the user as offline as soon 
 as we receive an end_session request for him or 60 seconds passed since last request received.
+
+This feature is available only for Cloud/Enterprise Editions. 
+
+##How do calculate live users barchart?
+
+When you login to the dashboard, the live users chart on top right of the page shows you how many users have opened your app for the last 10 seconds. So if you read "80" there, that means your app has been opened by 80 users for last 10 second
+time frame.
+
+This feature is available only for Cloud/Enterprise Editions. 
+
+## What happens if my users send my application to the background? 
+
+As soon as your application is sent to background, the session is over. Session calculation doesn't involve apps that are
+sitting on the background, so for a session to be live, app should be running and sending data to server.
 
 ##How can I test my new translations and where do I put my files?
 Under countly/frontend/express/public/localization there are three folders;
