@@ -9,9 +9,13 @@ and architectural parts. This list is by no means complete – your suggestions 
 ### Priority #1 items
 
 * Push notifications
-* iPhone & Android applications
+* Executive iPad app
 * User analytics
 * Importing data
+* Truncating excess data
+* Pre-populating with demo data
+* Aggregated dashboard
+* Search in menus and applications
 
 ### Priority #2 items
 
@@ -22,7 +26,7 @@ and architectural parts. This list is by no means complete – your suggestions 
 ### Less priority items
 
 * Mobile database as a service
-* Sending reports
+* Report generation
 * Plugin support - adding features without modifying core source code
 
 ##Completed items
@@ -33,3 +37,5 @@ and architectural parts. This list is by no means complete – your suggestions 
 * Windows Phone support
 * HTML5 support (Titanium Appcelerator)
 * Blackberry support
+* Android / iPhone apps
+* 
