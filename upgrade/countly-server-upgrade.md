@@ -1,10 +1,8 @@
 # Upgrading Countly
 
-All Countly Server packages come with an upgrade script ([/bin/countly.upgrade.sh](https://github.com/Countly/countly-server/blob/master/bin/countly.upgrade.sh)) that makes it easy to upgrade from the previous version. Before upgrading, make sure you [downloaded the new Countly package](http://sf.net/projects/countly).
+Upgrading to the latest Countly Community Edition does not involve any complicated operations and you can complete it manually by following these 2 steps:
 
-Upgrading to the latest Countly Community Edition does not involve any complicated operations 
-so you can alternatively do it manually by following these 3 steps:
+1. Extract **countly-server-vXX.YY.zip** to your previous installation directory (or do a `git pull` if you cloned the [repo from GitHub](https://github.com/Countly/countly-server)). All files & directories should be overwritten.
+2. Run upgrade script under (/bin/upgrade.sh)
 
-1. Extract **countly-server-vXX.YY.zip** to your previous installation directory (or do a `git pull` if you cloned the [repo from GitHub](https://github.com/Countly/countly-server)) 
-2. Stop Countly processes `stop countly-supervisor`
-3. Start Countly processes `start countly-supervisor` 
+The first step will overwrite all old files with new ones, and second script will restart Countly related services.
