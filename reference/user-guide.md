@@ -3,6 +3,7 @@
 ## Changelog 
 * Version 1.0: Initial release
 * Version 1.1: Add features representing v13.06 
+* Version 1.2: Add features representing v14.08
 
 Countly is an innovative, real-time mobile analytics software, focusing on ease of use, extensibility and feature richness. Countly includes a server and a mobile component, both of which you can freely use in your own company for your applications under license terms.
 
@@ -111,6 +112,9 @@ This menu will give you the answer to the question "*Which smartphone types do m
 ## Resolutions 
 This menu shows two pie charts - total users and new users in terms of device resolution (width x height). This screen is
 important as it gives insights about which resolutions are used most so you can focus on these screen types.
+
+## Density 
+Android devices have screen densities and this menu shows densities reported by device. This menu is only for Android applications.
 
 ## Application versions
 This page shows different versions of applications, in case they are defined. A stacked chart shows totel sessions and new users. The table under the chart shows total sessions, total users and new users, respectively for each application version. This menu will give you the answer to the question *"How do my application versions compare?"*
