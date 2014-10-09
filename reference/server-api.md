@@ -2,7 +2,7 @@
 
 This document describes the API functionality provided with Countly Server. Both read (`/o`) and write (`/i`) requests are available through the Countly Server API.
 
-FOR A COMPLETE API LIST, SEE [COUNTLY API DOCUMENTATION PAGE](http://resources.count.ly)
+*FOR A COMPLETE API LIST, SEE [COUNTLY API DOCUMENTATION PAGE](http://resources.count.ly)*
 
 ##1. Write API
 
